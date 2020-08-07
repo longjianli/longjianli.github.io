@@ -32,7 +32,7 @@ My current [Erdős number](http://en.wikipedia.org/wiki/Erd%C5%91s_number) is 5,
 
 | 0 | 1 |	2 | 3 |	4 |	5 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| [Erdős, P.](http://en.wikipedia.org/wiki/Paul_Erd%C5%91s) |	Urbanik, K. |	Kamiński, A. |	Rudnicki, R. |	Stachurski, J. |	Toda, A. A. |
+| [Erdős, P.](http://en.wikipedia.org/wiki/Paul_Erd%C5%91s) |	[Urbanik, K.](https://en.wikipedia.org/wiki/Kazimierz_Urbanik) |	Kamiński, A. |	[Rudnicki, R.](https://www.impan.pl/~rudnicki/) |	[Stachurski, J.](http://johnstachurski.net/) |	Toda, A. A. |
 | [Erdős, P.](http://en.wikipedia.org/wiki/Paul_Erd%C5%91s) |	Lovász, L. |	Harvey, N. J. A. |	Murota, K. |	Tanaka, K. |	Toda, A. A. |
 | [Erdős, P.](http://en.wikipedia.org/wiki/Paul_Erd%C5%91s) |	Harary, F. |	Iri, M. |	Murota, K. |	Tanaka, K. |	Toda, A. A. |
 | [Erdős, P.](http://en.wikipedia.org/wiki/Paul_Erd%C5%91s) |	Ajtai, M. |	Fagin, R. |	Geanakoplos, J. D. |	Walsh, K. J. |	Toda, A. A. |
