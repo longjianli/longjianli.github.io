@@ -26,5 +26,5 @@ I find it beautiful when regularity and complexity come together. Some corollari
 
 I also like programming, chess, and tennis, although I am not particularly good at those.
 
-Erdos number
+Erdős number
 -----
