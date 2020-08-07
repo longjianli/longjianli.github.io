@@ -28,4 +28,11 @@ I also like programming, chess, and tennis, although I am not particularly good 
 
 Erdős number
 -----
-My current Erdős number is 5, based on the following connections (you can use [this tool](https://mathscinet.ams.org/mathscinet/freeTools.html) to compute your Erdős number or the collaboration distance between anybody): 
+My current Erdős number is 5, based on the following connections (you can use [this tool](https://mathscinet.ams.org/mathscinet/freeTools.html) to compute your Erdős number or the collaboration distance between anybody):
+
+| 0 | 1 |	2 | 3 |	4 |	5 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Erdős, P. |	Urbanik, K. |	Kamiński, A. |	Rudnicki, R. |	Stachurski, J. |	Toda, A. A. |
+| Erdős, P. |	Lovász, L. |	Harvey, N. J. A. |	Murota, K. |	Tanaka, K. |	Toda, A. A. |
+| Erdős, P. |	Harary, F. |	Iri, M. |	Murota, K. |	Tanaka, K. |	Toda, A. A. |
+| Erdős, P. |	Ajtai, M. |	Fagin, R. |	Geanakoplos, J. D. |	Walsh, K. J. |	Toda, A. A. |
