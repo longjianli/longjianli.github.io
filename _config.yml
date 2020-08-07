@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Alexis Akira Toda"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Economist"
   location         : "San Diego, CA"
-  employer         : "University of California San Diego"
+  employer         : "Associate Professor, <a href="http://economics.ucsd.edu/" target="_blank">UCSD Economics</a>"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=29tiOI0AAAAJ"
   email            :
