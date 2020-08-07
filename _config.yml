@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alexis Akira Toda's website"
+title                    : "Alexis Akira Toda"
 title_separator          : "-"
 name                     : &name "Alexis Akira Toda"
 description              : &description "personal description"
