@@ -10,7 +10,17 @@ redirect_from:
 
 I am an associate professor at the [Department of Economics, University of California San Diego](http://economics.ucsd.edu/). I was born in Montreal (paternal side is Japanese and maternal side is French Canadian) and speak English, French, and Japanese.
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a mathematical economist with strong interests in applications. My research ranges from general equilibrium with incomplete markets to power law, finance, macro, numerical analysis, and (recently) epidemiology by topics, and from theoretical to numerical and empirical by methods. I have published papers in journals such as Journal of Political Economy, Journal of Economic Theory, Review of Financial Studies, Journal of Financial Economics, Journal of Monetary Economics, Quantitative Economics, and Physical Review E, among others. I am also a medical doctor (anesthesiologist) and an associate editor at [Economic Theory](https://www.springer.com/journal/199) and [Journal of Mathematical Economics](https://www.journals.elsevier.com/journal-of-mathematical-economics). Please see my research page for more details.
+
+I find it beautiful when regularity and complexity come together. Some corollaries of this statement are:
+
+- I like mathematics,
+- I like power law behavior,
+- My favorite composer is [J. S. Bach](https://en.wikipedia.org/wiki/Johann_Sebastian_Bach),
+- My favorite artist is [M. C. Escher](https://mcescher.com/),
+- I like short, simple papers that are to the point and dislike models with all sorts of bells and whistles.
+
+I also like programming, chess, and tennis, although I am not particularly good at those.
 
 A data-driven personal website
 ======
