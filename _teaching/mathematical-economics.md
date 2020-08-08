@@ -32,4 +32,7 @@ This course covers the classical Arrow-Debreu theory of general equilibrium.
 - [Fall 2019 Final](/files/113_2019F_F_withoutsol.pdf) [Solution](/files/113_2019F_F_withsol.pdf)
 
 ### Econ 200B
-- [Winter 2016 Midterm](/files/200-2016W_midterm.pdf) [Solution](/files/200-2016W_midterm_solution.pdf)
+- [Winter 2016 Midterm](/files/200_2016W_midterm.pdf) [Solution](/files/200_2016W_midterm_solution.pdf)
+- [Winter 2018 Midterm](/files/200_2018W_midterm.pdf) [Solution](/files/200_2018W_midterm_solution.pdf)
+- [Winter 2019 Midterm](/files/200_2019W_midterm.pdf) [Solution](/files/200_2019W_midterm_solution.pdf)
+- [Winter 2020 Midterm](/files/200_2020W_midterm.pdf) [Solution](/files/200_2020W_midterm_solution.pdf)
