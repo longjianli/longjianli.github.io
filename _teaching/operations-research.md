@@ -3,8 +3,6 @@ title: "Operations Research (Econ 172B)"
 collection: teaching
 type: "Undergraduate"
 permalink: /teaching/operations-research
-venue: "University of California San Diego"
-location: "La Jolla, USA"
 ---
 
 This course covers some topics in operations research, such as convex analysis, nonlinear programming, and dynamic programming. I no longer teach this course.
