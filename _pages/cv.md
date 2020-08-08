@@ -45,7 +45,7 @@ redirect_from:
 - Medical Doctor, Japan
 
 ## Media Coverage
-1. [Fortune. The Reopening Dilemma: Saving Lives vs. Saving the Economy is a False Tradeoff, Economists
-Say. May 2020](https://fortune.com/2020/05/04/reopening-reopen-economy-coronavirus-covid-19-lifting-lockdown-economists)
-1. [VoxEu. Early Draconian Social Distancing May Be Suboptimal for Fighting the COVID-
-19 Epidemic. Apr. 2020](https://voxeu.org/article/early-draconian-social-distancing-may-be-suboptimal-fighting-covid-19-epidemic#)
+1. [The Reopening Dilemma: Saving Lives vs. Saving the Economy is a False Tradeoff, Economists
+Say](https://fortune.com/2020/05/04/reopening-reopen-economy-coronavirus-covid-19-lifting-lockdown-economists), Fortune, May 2020
+1. [Early Draconian Social Distancing May Be Suboptimal for Fighting the COVID-
+19 Epidemic](https://voxeu.org/article/early-draconian-social-distancing-may-be-suboptimal-fighting-covid-19-epidemic#), VoxEu, April 2020
