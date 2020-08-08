@@ -13,11 +13,11 @@ PDF version is [here](https://drive.google.com/file/d/0B1swfC7fTvvpbFB6eWF2ay1Zb
 
 Personal Information
 -----
-Place of birth : Montreal, Quebec, Canada
-Citizenship : Canadian, Japanese (U.S. Permanent Resident)
-Language : English (fluent), French (fluent), Japanese (native)
-Number of papers : 29 published/accepted; 19.87 if inversely weighted by number of coauthors
-Erdős number : 5
+Place of birth :~ Montreal, Quebec, Canada
+Citizenship :~ Canadian, Japanese (U.S. Permanent Resident)
+Language :~ English (fluent), French (fluent), Japanese (native)
+Number of papers :~ 29 published/accepted; 19.87 if inversely weighted by number of coauthors
+Erdős number :~ 5
 
 Education
 ======
