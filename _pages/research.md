@@ -37,6 +37,10 @@ I am an "applied general equilibrium theorist", meaning that I am a theorist int
 (Theory, Macro) In perpetual youth models, introduction of government transfer crowds out annuity market and increases growth.
 1. "[A Note on the Size Distribution of Consumption: More Double Pareto than Lognormal](http://doi.org/10.1017/S1365100515000942)", **Macroeconomic Dynamics** 21(6):1508-1518 (2017) [WP version](https://ssrn.com/abstract=2540741) [Online appendix](https://www.dropbox.com/s/quene1bbrwhgna0/dPlN_appendix.pdf?dl=0) [Code](http://www.runmycode.org/companion/view/2941) [BibTeX](https://drive.google.com/open?id=1MnXmjxzquXlw2RMPr5a3lZygpaQ9kFcu)  
 (Power law, Empirical) Cross-sectional household consumption is well-approximated by double Pareto-lognormal distribution.
+1. "[Huggett Economies with Multiple Stationary Equilibria](https://doi.org/10.1016/j.jedc.2017.09.002)", **Journal of Economic Dynamics and Control** 84:77-90 (2017) [WP version](https://ssrn.com/abstract=2932314) [Code](http://www.runmycode.org/companion/view/2937) [BibTeX](https://drive.google.com/open?id=1WuF0jWeXuyCWyZaLon7M18iF2ckLpeFU)  
+(Theory, Macro) Closed-form solution to a Huggett (1993) economy with non-Gaussian VAR(1) dynamics and general examples of multiple stationary equilibria.
+1. "[Edgeworth Box Economies with Multiple Equilibria](http://doi.org/10.1007/s40505-016-0102-3)", with *Kieran James Walsh*, **Economic Theory Bulletin** 5(1):65-80 (2017) [WP version](https://ssrn.com/abstract=2791689) [Code](http://www.runmycode.org/companion/view/2942) [BibTeX](https://drive.google.com/open?id=1-JU-abq9SskGKpttGUGkuDzV_UsWFTXs)  
+(Theory) Many general examples of multiple equilibria in Edgeworth box economies.
 
 ## Papers in conference proceedings
 
