@@ -66,7 +66,7 @@ I am an "applied general equilibrium theorist", meaning that I am a theorist int
 1. "[Income Dynamics with a Stationary Double Pareto Distribution](http://doi.org/10.1103/PhysRevE.83.046122)", **Physical Review E** 83(4):046122 (2011) [BibTeX](https://drive.google.com/open?id=1Li7CqNeAUb73bW_aqspjAnanlkpYdv8P)  
 (Power law, Empirical) A certain mean-reverting income process generates a stationary double Pareto distribution. An abridged version of my third-year empirical paper at Yale.
 1. "[Operator Reverse Monotonicity of the Inverse](http://doi.org/10.1006/jeth.1994.1018)", **American Mathematical Monthly** 118(1):82-83 (2011) [BibTeX](https://drive.google.com/open?id=1Y2PlF0ioQ_Aq1btWJkhW6f_G8BCXr-Ks)  
-(Mathematics) Simple proof of the equivalence $$A\ge B$$ if and only if B-1≥ A-1 for positive definite matrices based on convex conjugate functions.
+(Mathematics) Simple proof of the equivalence \\(A \ge B\\) if and only if \\(B^{-1} \ge A^{-1}\\) for positive definite matrices based on convex conjugate functions.
 1. "[Existence of a Statistical Equilibrium for an Economy with Endogenous Offer Sets](http://doi.org/10.1007/s00199-009-0493-6)", **Economic Theory** 45(3):379-415 (2010) [BibTeX](https://drive.google.com/open?id=1BafXt-Q_De4LBFCZmqYHedlkiQjZndlU)  
 (Theory) Generalizes [Foley's (1994)](http://dx.doi.org/10.1006/jeth.1994.1018) statistical equilibrium model when offer sets are endogenous. My master thesis at U of Tokyo. Further generalized in [Toda (2015)](http://doi.org/10.1007/s00199-014-0849-4).
 
