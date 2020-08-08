@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an associate professor at the [Department of Economics, University of California San Diego](http://economics.ucsd.edu/). I was born in Montreal (paternal side is Japanese and maternal side is French Canadian) and speak English, French, and Japanese.
+I am an associate professor at the [Department of Economics, University of California San Diego](http://economics.ucsd.edu/). I was born in Montréal (paternal side is Japanese and maternal side is French Canadian) and speak English, French, and Japanese.
 
 My research
 =====
