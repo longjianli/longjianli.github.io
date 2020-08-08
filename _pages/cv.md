@@ -29,17 +29,17 @@ Research Interests
 
 Appointments and Affiliations
 =====
-* Associate Professor, Department of Economics, UC San Diego, 2019-Present
-* Assistant Professor, Department of Economics, UC San Diego, 2013-2019
+* Associate Professor, [Department of Economics, University of California San Diego](https://economics.ucsd.edu/), 2019-Present
+* Assistant Professor, [Department of Economics, University of California San Diego](https://economics.ucsd.edu/), 2013-2019
 
 Education
 ======
-* Ph.D., Department of Economics, Yale University, 2013
-* M.Phil., Department of Economics, Yale University, 2011
-* M.A., Department of Economics, Yale University, 2011
-* M.A., Graduate Schoolf of Economics, University of Tokyo, 2008
-* M.D., Faculty of Medicine, University of Tokyo, 2004
-* B.A., Faculty of Medicine, University of Tokyo, 2004
+* Ph.D., [Department of Economics, Yale University](https://economics.yale.edu/), 2013
+* M.Phil., [Department of Economics, Yale University](https://economics.yale.edu/), 2011
+* M.A., [Department of Economics, Yale University](https://economics.yale.edu/), 2011
+* M.A., [Graduate School of Economics, University of Tokyo](http://www.e.u-tokyo.ac.jp/index-e.html), 2008
+* M.D., [Faculty of Medicine, University of Tokyo](http://www.m.u-tokyo.ac.jp/english/), 2004
+* B.A., [Faculty of Medicine, University of Tokyo](http://www.m.u-tokyo.ac.jp/english/), 2004
 
 Publications
 ======
