@@ -1,7 +1,7 @@
 ---
 title: "Financial Markets (Econ 173A)"
+excerpt: "Undergraduate course in finance"
 collection: teaching
-type: "Undergraduate"
 permalink: /teaching/financial-markets
 ---
 
