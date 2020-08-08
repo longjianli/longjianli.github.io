@@ -11,4 +11,4 @@ location: "La Jolla, USA"
 This course covers some topics in operations research, namely convex analysis, nonlinear programming, and dynamic programming. I no longer teach this course.
 
 ## Past exams
-- blabla
+- [Winter 2014 Midterm 1](/files/172B_2014W_M1.pdf)
