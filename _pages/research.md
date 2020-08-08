@@ -21,6 +21,10 @@ I am an "applied general equilibrium theorist", meaning that I am a theorist int
 (Finance, Theory, Empirical) In general equilibrium model with heterogeneous risk aversion and/or beliefs, the wealth distribution predicts excess stock returns, which we confirm in data using estate tax rate change as instrument.
 1. "[Efficient Minimum Distance Estimation of Pareto Exponent from Top Income Shares](https://doi.org/10.1002/jae.2788)", with **Yulong Wang**, *Journal of Applied Econometrics* [WP version](https://arxiv.org/abs/1901.02471) [Code](http://qed.econ.queensu.ca/jae/datasets/toda002/)  
 (Power law, Econometrics) How to efficiently estimate Pareto exponents when only certain top income shares are observable.
+1. "[Is Gibrat's "Economic Inequality" Lognormal?](https://doi.org/10.1007/s00181-019-01719-z)", with **Sherzod Akhundjanov**, *Empirical Economics*  
+(Power law, Empirical) The majority of data sets analyzed by Gibrat and claimed to be lognormal are actually closer to Pareto-type distributions.
+1. "[Publications, Citations, Position, and Compensation of Economics Professors](https://econjwatch.org/articles/publications-citations-position-and-compensation-of-economics-professors)", with **Yifei Lyu**, *EconJournalWatch*, 16(2): 239-257 (2019) [Code](https://econjwatch.org/file_download/1115/LyuTodaSept2019DataAndCode.zip) [BibTeX](https://drive.google.com/open?id=1xaPeMeZAJ4pDGDmZBamdxt0_NO4aRD3_)  
+(Empirical) Publications (Top 5/Non-top 5) and job rank explains over 80% of variations in salaries among economics professors in the UC system. There is no evidence of gender gap.
 
 ## Papers in conference proceedings
 
