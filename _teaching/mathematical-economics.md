@@ -4,7 +4,6 @@ collection: teaching
 type: "Undergraduate/Graduate"
 permalink: /teaching/mathematical-economics
 venue: "University of California San Diego"
-date: 2014-01-01
 location: "La Jolla, USA"
 ---
 
