@@ -51,6 +51,16 @@ I am an "applied general equilibrium theorist", meaning that I am a theorist int
 (Theory) Walrasian equilibrium is a special limiting case of statistical equilibrium.
 1. "[The Double Power Law in Consumption and Implications for Testing Euler Equations](http://doi.org/10.1086/682729)", with *Kieran James Walsh*, **Journal of Political Economy** 123(5):1177-1200 (2015) [WP version](https://ssrn.com/abstract=2319454) [Slides](https://www.dropbox.com/s/cbr5ep5p6x4dead/dPL_slides_04_short.pdf) [Code](http://www.journals.uchicago.edu/doi/suppl/10.1086/682729) [BibTeX](https://drive.google.com/open?id=1PxR7eEyv6sRWsMrCtJH8UlFNxgsbfGuI)  
 (Power law, Econometrics, Empirical) Power law in cross-sectional household consumption data causes spurious inference.
+1. "[Incomplete Market Dynamics and Cross-Sectional Distributions](http://doi.org/10.1016/j.jet.2014.09.015)", **Journal of Economic Theory** 154:310-348 (2014) [WP version](https://ssrn.com/abstract=2322845) [BibTeX](https://drive.google.com/open?id=1vVAchnlYgw-DOzUclTsv7pdXVs8l1jDt)  
+(Power law, Theory) Class of tractable dynamic general equilibrium models that generates power law in size distributions.
+1. "[Radii of the Inscribed and Escribed Spheres of a Simplex](http://ijgeometry.com/wp-content/uploads/2014/10/1.pdf)", **International Journal of Geometry** 3(2):5-13 (2014) [BibTeX](https://drive.google.com/open?id=1-rRVEuLQb5MsHwZKEVQFvO22x7EGIpIv)  
+(Mathematics) Sum of the reciprocals of the radii of escribed circles of a triangle equals the reciprocal of the radius of the inscribed circle. Generalizations to a simplex.
+1. "[Discrete Approximations of Continuous Distributions by Maximum Entropy](http://doi.org/10.1016/j.econlet.2012.12.020)", with *Ken'ichiro Tanaka*, **Economics Letters** 118(3):445-450 (2013) [BibTeX](https://drive.google.com/open?id=1WFMb0HDeUrtnBnXgyoZJlgsuNxf_wYN2)  
+(Numerical method) Simple maximum entropy method to discretize probability distributions.
+1. "[Learning Curve for Paramedic Endotracheal Intubation and Complications](http://doi.org/10.1186/1865-1380-6-38)", with *Junko Toda and Johji Arakawa*, **International Journal of Emergency Medicine** 6:38 (2013) [BibTeX](https://drive.google.com/open?id=1M52L1XBFPia8iyo0kgoTFIue83Fdpy3S)  
+(Medicine, Empirical) You need to practice at least 30 times to intubate a patient consistently.
+1. "[The Impact of Media Reports on the 2008 Outbreak of Hydrogen Sulfide Suicides in Japan](http://doi.org/10.2190/PM.44.2.d)", with *Mitsuhiro Nakamura, Hideo Yasunaga, Toru Sugihara, and Tomoaki Imamura*, **International Journal of Psychiatry in Medicine** 44(2):133-140 (2012) [BibTeX](https://drive.google.com/open?id=1Zc44Yd0q26FZ5I60CGz10QT53neJ-zkV)  
+(Medicine, Empirical) The media coverage during the 2008 outbreak of hydrogen sulfide suicides in Japan caused more suicides.
 
 ## Papers in conference proceedings
 
