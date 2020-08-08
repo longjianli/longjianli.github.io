@@ -10,7 +10,7 @@ location: "La Jolla, USA"
 
 This course covers the classical Arrow-Debreu theory of general equilibrium. The undergraduate course (Econ 113) meets 3 hours per week for 10 weeks and covers about 2/3 of the lecure note. The graduate course (Econ 200B) meets 3 hours per week for 5 weeks and covers the entire lecture note.
 
-## [Lecture notes](https://www.dropbox.com/s/49rvpch73rmkw0c/113_Lnote.pdf)
+## [Lecture note](https://www.dropbox.com/s/49rvpch73rmkw0c/113_Lnote.pdf)
 
 ## Past exams
 
