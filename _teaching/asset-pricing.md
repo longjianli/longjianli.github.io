@@ -3,8 +3,6 @@ title: "Intertemporal Asset Pricing Theory (Econ 272)"
 collection: teaching
 type: "Graduate"
 permalink: /teaching/asset-pricing
-venue: "University of California San Diego"
-location: "La Jolla, USA"
 ---
 
 This course covers topics in finance theory. I no longer teach this course.
