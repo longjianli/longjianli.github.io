@@ -12,6 +12,6 @@ I am an "applied general equilibrium theorist", meaning that I am a theorist int
 Refereed research articles (reverse chronological)
 =====
 
-1. "On the Emergence of a Power Law in the Distribution of COVID-19 Cases", with Brendan K. Beare, Physica D 412: 132649 (2020) [WP version] [code] [BibTeX]  
+1. "[On the Emergence of a Power Law in the Distribution of COVID-19 Cases](https://doi.org/10.1016/j.physd.2020.132649)", with Brendan K. Beare, Physica D 412: 132649 (2020) [WP version](https://arxiv.org/abs/2004.12772) [Code](https://github.com/alexisakira/COVID-19_power_law) [BibTeX](https://drive.google.com/file/d/1pLppJbPuWKyqUeac97oge2ehCqKf3Yjf)  
 (Power law, Empirical) The size distribution of COVID-19 cases across US counties obeys the power law, and the Pareto exponent is consistent with the estimated growth rate and age distributions.
 1. blabla
