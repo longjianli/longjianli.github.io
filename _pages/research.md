@@ -16,7 +16,11 @@ I am an "applied general equilibrium theorist", meaning that I am a theorist int
 1. "[The Income Fluctuation Problem and the Evolution of Wealth](https://doi.org/10.1016/j.jet.2020.105003)", with **Qingyin Ma and John Stachurski**, *Journal of Economic Theory* 187: 105003 (2020) [WP version](https://arxiv.org/abs/1905.13045) [Code](https://github.com/jstac/ifp_public) [BibTeX](https://drive.google.com/open?id=1eFVnWT2RHmcFnpJXeQBx2gWKxbGTpWoV)  
 (Power law, Theory) Establish existence and uniqueness of a solution to a general income fluctuation problem and characterize tail behavior of stationary wealth distribution. 
 1. "[Data-based Automatic Discretization of Nonparametric Distributions](https://doi.org/10.1007/s10614-020-10012-6)", *Computational Economics* [WP version](http://arxiv.org/abs/1805.00896)  
-(Numerical method) Automatic discretization method of nonparametric distributions using Gaussian quadrature. 
+(Numerical method) Automatic discretization method of nonparametric distributions using Gaussian quadrature.
+1. "[The Equity Premium and the One Percent](https://doi.org/10.1093/rfs/hhz121)", with **Kieran James Walsh**, *Review of Financial Studies* 33(8): 3583-3623 (2020) [WP version](https://ssrn.com/abstract=2409969) [BibTeX](https://drive.google.com/file/d/1Ukr1ZNtNS7Riu7IqUIYlBLWSXyDQH8YY)  
+(Finance, Theory, Empirical) In general equilibrium model with heterogeneous risk aversion and/or beliefs, the wealth distribution predicts excess stock returns, which we confirm in data using estate tax rate change as instrument.
+1. "[Efficient Minimum Distance Estimation of Pareto Exponent from Top Income Shares](https://doi.org/10.1002/jae.2788)", with **Yulong Wang**, *Journal of Applied Econometrics* [WP version](https://arxiv.org/abs/1901.02471) [Code](http://qed.econ.queensu.ca/jae/datasets/toda002/)  
+(Power law, Econometrics) How to efficiently estimate Pareto exponents when only certain top income shares are observable.
 
 ## Papers in conference proceedings
 
