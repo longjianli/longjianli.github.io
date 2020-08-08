@@ -13,5 +13,7 @@ Refereed research articles (reverse chronological)
 =====
 
 1. "On the Emergence of a Power Law in the Distribution of COVID-19 Cases", with Brendan K. Beare, Physica D 412: 132649 (2020) [WP version] [code] [BibTeX]
+
   > (Power law, Empirical) The size distribution of COVID-19 cases across US counties obeys the power law, and the Pareto exponent is consistent with the estimated growth rate and age distributions.
+
 1. blabla
