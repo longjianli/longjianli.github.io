@@ -3,18 +3,17 @@ title: "Mathematical Economics/General Equilibrium (Econ 113/200B)"
 collection: teaching
 type: "Undergraduate/Graduate"
 permalink: /teaching/mathematical-economics
-venue: "UCSD"
-date: 2014-01-01
+venue: "University of California San Diego"
 location: "La Jolla, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+## [Lecture notes](https://www.dropbox.com/s/49rvpch73rmkw0c/113_Lnote.pdf)
 
-Heading 1
-======
+## Past exams
 
-Heading 2
-======
+### Econ 113
+- Spring 2014 Midterm 1
+- Spring 2014 Midterm 2
+- Spring 2014 Final
 
-Heading 3
-======
+### Econ 200B
