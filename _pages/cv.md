@@ -12,18 +12,14 @@ redirect_from:
 ## [Detailed PDF version](https://drive.google.com/file/d/0B1swfC7fTvvpbFB6eWF2ay1ZbVE/view)
 
 ## Personal Information
-- Place of birth: Montréal, Quebéc, Canada
+- Place of birth: [Montréal](https://en.wikipedia.org/wiki/Montreal), [Québec](https://en.wikipedia.org/wiki/Quebec), Canada
 - Citizenship: Canadian, Japanese (U.S. Permanent Resident)
 - Language: English (fluent), French (fluent), Japanese (native)
 
 ## Research Interests
 - Power law in economics and finance
-- Financial theory
-- Macroeconomic theory
-- Wealth inequality
-- Computational economics
 - Mathematical economics
-- Econometrics
+- Computational economics
 
 ## Appointments and Affiliations
 * Associate Professor, [Department of Economics, University of California San Diego](https://economics.ucsd.edu/), 2019-Present
