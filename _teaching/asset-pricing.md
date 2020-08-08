@@ -2,7 +2,7 @@
 title: "Intertemporal Asset Pricing Theory (Econ 272)"
 collection: teaching
 type: "Undergraduate/Graduate"
-permalink: /teaching/mathematical-economics
+permalink: /teaching/asset-pricing
 venue: "University of California San Diego"
 date: 2014-09-01
 location: "La Jolla, USA"
