@@ -19,5 +19,10 @@ location: "La Jolla, USA"
 - [Fall 2014 Midterm 1](/files/113_2014F_M1_withoutsol.pdf) [Solution](/files/113_2014F_M1_withsol.pdf)
 - [Fall 2014 Midterm 2](/files/113_2014F_M2_withoutsol.pdf) [Solution](/files/113_2014F_M2_withsol.pdf)
 - [Fall 2014 Final](/files/113_2014F_F_withoutsol.pdf) [Solution](/files/113_2014F_F_withsol.pdf)
+- [Fall 2015 Midterm 1](/files/113_2015F_M1_withoutsol.pdf) [Solution](/files/113_2015F_M1_withsol.pdf)
+- [Fall 2015 Midterm 2](/files/113_2015F_M2_withoutsol.pdf) [Solution](/files/113_2015F_M2_withsol.pdf)
+- [Fall 2015 Final](/files/113_2015F_F_withoutsol.pdf) [Solution](/files/113_2015F_F_withsol.pdf)
+- [Fall 2016 Midterm](/files/113_2016F_M_withoutsol.pdf) [Solution](/files/113_2016F_M_withsol.pdf)
+- [Fall 2016 Final](/files/113_2016F_F_withoutsol.pdf) [Solution](/files/113_2016F_F_withsol.pdf)
 
 ### Econ 200B
