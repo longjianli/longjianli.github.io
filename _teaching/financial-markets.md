@@ -4,7 +4,6 @@ collection: teaching
 type: "Undergraduate"
 permalink: /teaching/financial-markets
 venue: "University of California San Diego"
-date: 2019-09-01
 location: "La Jolla, USA"
 ---
 
