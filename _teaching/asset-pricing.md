@@ -1,8 +1,10 @@
 ---
 title: "Intertemporal Asset Pricing Theory (Econ 272)"
-exerpt: "Graduate course in finance"
+type: "Graduate"
 collection: teaching
 permalink: /teaching/asset-pricing
+venue: "UCSD"
+date: 2014-01-01
 ---
 
 This course covers topics in finance theory. I no longer teach this course.
