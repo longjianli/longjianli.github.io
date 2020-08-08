@@ -25,6 +25,10 @@ I am an "applied general equilibrium theorist", meaning that I am a theorist int
 (Power law, Empirical) The majority of data sets analyzed by Gibrat and claimed to be lognormal are actually closer to Pareto-type distributions.
 1. "[Publications, Citations, Position, and Compensation of Economics Professors](https://econjwatch.org/articles/publications-citations-position-and-compensation-of-economics-professors)", with **Yifei Lyu**, *EconJournalWatch*, 16(2): 239-257 (2019) [Code](https://econjwatch.org/file_download/1115/LyuTodaSept2019DataAndCode.zip) [BibTeX](https://drive.google.com/open?id=1xaPeMeZAJ4pDGDmZBamdxt0_NO4aRD3_)  
 (Empirical) Publications (Top 5/Non-top 5) and job rank explains over 80% of variations in salaries among economics professors in the UC system. There is no evidence of gender gap.
+1. "[Securitized Markets, International Capital Flows, and Global Welfare](https://doi.org/10.1016/j.jfineco.2018.08.011)", with **Gregory Phelan**, *Journal of Financial Economics* 131(3): 571-592 (2019) [WP version](https://ssrn.com/abstract=2689043) [Code](http://www.runmycode.org/companion/view/2940) [BibTeX](https://drive.google.com/open?id=1jrh-O8_9o3A9GsNo9UIohUie5ZPnLdI5)  
+(Finance, Theory) With collateral constraints, financial integration may hurt the less constrained country.
+1. "[An Impossibility Theorem for Wealth in Heterogeneous-agent Models with Limited Heterogeneity](https://doi.org/10.1016/j.jet.2019.04.001)", with **John Stachurski**, *Journal of Economic Theory* 182:1-24 (2019) [WP version](https://arxiv.org/abs/1807.08404) [Slides](https://www.dropbox.com/s/bx8mg5oinreymqn/impossibility_slides_02.pdf) [BibTeX](https://drive.google.com/open?id=1PjJDVRWn6LOcDUE_psafi92VMbsKJ6Py) [Corrigendum](https://doi.org/10.1016/j.jet.2020.105066)  
+(Power law, Theory, Macro) Prove the impossibility for the canonical Bewley-Huggett-Aiyagari model to generate heavier-tailed wealth than income.
 
 ## Papers in conference proceedings
 
