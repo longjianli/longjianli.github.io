@@ -4,7 +4,6 @@ collection: teaching
 type: "Graduate"
 permalink: /teaching/asset-pricing
 venue: "University of California San Diego"
-date: 2014-09-01
 location: "La Jolla, USA"
 ---
 
