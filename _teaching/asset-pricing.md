@@ -1,7 +1,7 @@
 ---
 title: "Intertemporal Asset Pricing Theory (Econ 272)"
+exerpt: "Graduate course in finance"
 collection: teaching
-type: "Graduate"
 permalink: /teaching/asset-pricing
 ---
 
