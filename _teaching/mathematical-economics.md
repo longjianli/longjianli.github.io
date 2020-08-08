@@ -8,6 +8,8 @@ date: 2014-01-01
 location: "La Jolla, USA"
 ---
 
+This course covers the classical Arrow-Debreu theory of general equilibrium.
+
 ## [Lecture notes](https://www.dropbox.com/s/49rvpch73rmkw0c/113_Lnote.pdf)
 
 ## Past exams
@@ -30,3 +32,4 @@ location: "La Jolla, USA"
 - [Fall 2019 Final](/files/113_2019F_F_withoutsol.pdf) [Solution](/files/113_2019F_F_withsol.pdf)
 
 ### Econ 200B
+- [Winter 2016 Midterm](/files/200-2016W_midterm.pdf) [Solution](/files/200-2016W_midterm_solution.pdf)
