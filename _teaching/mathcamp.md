@@ -4,7 +4,6 @@ collection: teaching
 type: "Graduate"
 permalink: /teaching/mathcamp
 venue: "University of California San Diego"
-date: 2015-09-01
 location: "La Jolla, USA"
 ---
 
