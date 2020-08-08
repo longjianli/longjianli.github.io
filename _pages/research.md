@@ -44,7 +44,7 @@ I am an "applied general equilibrium theorist", meaning that I am a theorist int
 1. "[Fat Tails and Spurious Estimation of Consumption-Based Asset Pricing Models](http://doi.org/10.1002/jae.2564)", with *Kieran James Walsh*, **Journal of Applied Econometrics** 32(6):1156-1177 (2017) [WP version](https://ssrn.com/abstract=2495151) [Code](http://qed.econ.queensu.ca/jae/datasets/toda001/) [BibTeX](https://drive.google.com/open?id=1GUq13OmTdmawYSowY8aWZX9S9J5LtEYP)  
 (Power law, Econometrics, Finance) Monte Carlo study of spurious inference caused by power law. Used to be a section of [Toda & Walsh (2015)](http://doi.org/10.1086/682729).
 1. "[Discretizing Distributions with Exact Moments: Error Estimate and Convergence Analysis](http://doi.org/10.1137/140971269)", with *Ken'ichiro Tanaka*, **SIAM Journal on Numerical Analysis** 53(5):2158-2177 (2015) [WP version](https://arxiv.org/abs/1308.3753) [BibTeX](https://drive.google.com/open?id=1HA0W4QKoieP7LsDZ-7572IBpdsMum26-)  
-(Numerical method, Mathematics) Convergence and error analysis of maximum entropy discretization. More complete analysis of [Tanaka & Toda (2013)](http://doi.org/10.1016/j.econlet.2012.12.020).
+(Numerical method, Mathematics) Convergence and error analysis of maximum entropy discretization of [Tanaka & Toda (2013)](http://doi.org/10.1016/j.econlet.2012.12.020).
 1. "[Asset Prices and Efficiency in a Krebs Economy](http://doi.org/10.1016/j.red.2014.11.003)", **Review of Economic Dynamics** 18(4):957-978 (2015) [WP version](https://ssrn.com/abstract=2425816) [BibTeX](https://drive.google.com/open?id=1mlzei-kDbEToXiECwn7mvgzDkLHZS5Jn)  
 (Theory, Macro, Finance) Asset pricing and optimal taxation in a class of tractable dynamic general equilibrium models. Used to be a section of [Toda (2014)](http://doi.org/10.1016/j.jet.2014.09.015).
 1. "[Bayesian General Equilibrium](http://doi.org/10.1007/s00199-014-0849-4)", **Economic Theory** 58(2):375-411 (2015) [BibTeX](https://drive.google.com/open?id=12cqUR4Q7kXEQgoBVd5BJskqCiyvVra4Z)  
@@ -71,7 +71,10 @@ I am an "applied general equilibrium theorist", meaning that I am a theorist int
 (Theory) Generalizes [Foley's (1994)](http://dx.doi.org/10.1006/jeth.1994.1018) statistical equilibrium model when offer sets are endogenous. My master thesis at U of Tokyo. Further generalized in [Toda (2015)](http://doi.org/10.1007/s00199-014-0849-4).
 
 ## Papers in conference proceedings
+1. "[Error Estimate and Convergence Analysis of Moment-Preserving Discrete Approximations of Continuous Distributions](http://dx.doi.org/10.1063/1.4903706)", with *Ken'ichiro Tanaka*, in Robert K. Niven, Brendon Brewer, David Paull, Kamran Shafi, Barrie Stokes eds. *Bayesian Inference and Maximum Entropy Methods in Science and Engineering, AIP Conference Proceedings* 1636:30-36 (2014)
+1. "[Axiomatization of Maximum Entropy without the Bayes Rule](http://dx.doi.org/10.1063/1.3703614)", in Philip Goyal, Adom Giffin, Kevin H. Knuth, Edward Vrscay eds. **Bayesian Inference and Maximum Entropy Methods in Science and Engineering, AIP Conference Proceedings** 1443:7-13 (2012)
 
 ## Other publications
+1. "[Corrigendum to "An Impossibility Theorem for Wealth in Heterogeneous-agent Models with Limited Heterogeneity \[Journal of Economics Theory 182 (2019) 1-24\]]((https://doi.org/10.1016/j.jet.2020.105066)", with *John Stachurski*, **Journal of Economic Theory** 188: 105066 (2020)
 
 ## Working papers
