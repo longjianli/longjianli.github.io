@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Detailed PDF version is [here](https://drive.google.com/file/d/0B1swfC7fTvvpbFB6eWF2ay1ZbVE/view)
+## [Detailed PDF version](https://drive.google.com/file/d/0B1swfC7fTvvpbFB6eWF2ay1ZbVE/view)
 
 ## Personal Information
 - Place of birth: Montréal, Quebéc, Canada
