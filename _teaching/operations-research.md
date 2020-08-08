@@ -12,3 +12,8 @@ This course covers some topics in operations research, namely convex analysis, n
 
 ## Past exams
 - [Winter 2014 Midterm 1](/files/172B_2014W_M1.pdf)
+- [Winter 2014 Midterm 2](/files/172B_2014W_M2.pdf)
+- [Winter 2014 Final](/files/172B_2014W_F.pdf)
+- [Winter 2015 Midterm 1](/files/172B_2015W_M1.pdf)
+- [Winter 2015 Midterm 2](/files/172B_2015W_M2.pdf)
+- [Winter 2015 Final](/files/172B_2015W_F.pdf)
