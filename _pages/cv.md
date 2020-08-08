@@ -9,42 +9,37 @@ redirect_from:
 
 {% include base_path %}
 
-PDF version is [here](https://drive.google.com/file/d/0B1swfC7fTvvpbFB6eWF2ay1ZbVE/view)
+Detailed PDF version is [here](https://drive.google.com/file/d/0B1swfC7fTvvpbFB6eWF2ay1ZbVE/view)
 
 Personal Information
------
-- Place of birth: Montreal, Quebec, Canada
+=====
+- Place of birth: Montréal, Quebéc, Canada
 - Citizenship: Canadian, Japanese (U.S. Permanent Resident)
 - Language: English (fluent), French (fluent), Japanese (native)
-- Number of papers: 29 published/accepted; 19.87 if inversely weighted by number of coauthors
-- Erdős number: 5
+
+Research Interests
+=====
+- Power law in economics and finance
+- Financial theory
+- Macroeconomic theory
+- Wealth inequality
+- Computational economics
+- Mathematical economics
+- Econometrics
+
+Appointments and Affiliations
+=====
+* Associate Professor, Department of Economics, UC San Diego, 2019-Present
+* Assistant Professor, Department of Economics, UC San Diego, 2013-2019
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Ph.D., Department of Economics, Yale University, 2013
+* M.Phil., Department of Economics, Yale University, 2011
+* M.A., Department of Economics, Yale University, 2011
+* M.A., Graduate Schoolf of Economics, University of Tokyo, 2008
+* M.D., Faculty of Medicine, University of Tokyo, 2004
+* B.A., Faculty of Medicine, University of Tokyo, 2004
 
 Publications
 ======
