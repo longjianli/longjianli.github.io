@@ -22,17 +22,22 @@ redirect_from:
 - Computational economics
 
 ## Appointments and Affiliations
-* Associate Professor, [Department of Economics, University of California San Diego](https://economics.ucsd.edu/), 2019-Present
-* Assistant Professor, [Department of Economics, University of California San Diego](https://economics.ucsd.edu/), 2013-2019
+### Academic positions
+- Associate Professor, [Department of Economics, University of California San Diego](https://economics.ucsd.edu/), 2019-Present
+- Assistant Professor, [Department of Economics, University of California San Diego](https://economics.ucsd.edu/), 2013-2019
+### Non-academic positions
+- Anesthesiologist, Toranomon Hospital, Tokyo, Japan, 2007-2010
+- Anesthesiologist, NTT East Kanto Medical Center, Tokyo, Japan, 2006-2007
+- Resident, Kitami Red Cross Hospital, Hokkaido, Japan, 2004-2006
 
 ## Education
-* Ph.D., [Department of Economics, Yale University](https://economics.yale.edu/), 2013
-* M.Phil., [Department of Economics, Yale University](https://economics.yale.edu/), 2011
-* M.A., [Department of Economics, Yale University](https://economics.yale.edu/), 2011
-* M.A., [Graduate School of Economics, University of Tokyo](http://www.e.u-tokyo.ac.jp/index-e.html), 2008
-* M.D., [Faculty of Medicine, University of Tokyo](http://www.m.u-tokyo.ac.jp/english/), 2004
-* B.A., [Faculty of Medicine, University of Tokyo](http://www.m.u-tokyo.ac.jp/english/), 2004
+- Ph.D., [Department of Economics, Yale University](https://economics.yale.edu/), 2013
+- M.Phil., [Department of Economics, Yale University](https://economics.yale.edu/), 2011
+- M.A., [Department of Economics, Yale University](https://economics.yale.edu/), 2011
+- M.A., [Graduate School of Economics, University of Tokyo](http://www.e.u-tokyo.ac.jp/index-e.html), 2008
+- M.D., [Faculty of Medicine, University of Tokyo](http://www.m.u-tokyo.ac.jp/english/), 2004
+- B.A., [Faculty of Medicine, University of Tokyo](http://www.m.u-tokyo.ac.jp/english/), 2004
 
 ## Qualifications
-* Board Certified Anesthesiologist, Japan
-* Medical Doctor, Japan
+- Board Certified Anesthesiologist, Japan
+- Medical Doctor, Japan
