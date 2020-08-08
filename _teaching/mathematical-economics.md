@@ -13,7 +13,7 @@ location: "La Jolla, USA"
 ## Past exams
 
 ### Econ 113
-- Spring 2014 Midterm 1
+- [Spring 2014 Midterm 1](/files/113_2014F_M1_withoutsol.pdf) [Solution](/files/113_2014F_M1_withsol.pdf)
 - Spring 2014 Midterm 2
 - Spring 2014 Final
 
