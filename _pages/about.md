@@ -20,7 +20,7 @@ I find it beautiful when regularity and complexity come together. Some corollari
 - I like power law behavior,
 - My favorite composer is [J. S. Bach](https://en.wikipedia.org/wiki/Johann_Sebastian_Bach),
 - My favorite artist is [M. C. Escher](https://mcescher.com/),
-- I like short, simple papers that are to the point and dislike models with all sorts of bells and whistles.
+- I like short, simple papers that are to the point.
 
 I also like programming, chess, and tennis, although I am not particularly good at those.
 
