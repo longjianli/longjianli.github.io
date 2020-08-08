@@ -75,7 +75,7 @@ I am an "applied general equilibrium theorist", meaning that I am a theorist int
 1. "[Axiomatization of Maximum Entropy without the Bayes Rule](http://dx.doi.org/10.1063/1.3703614)", in Philip Goyal, Adom Giffin, Kevin H. Knuth, Edward Vrscay eds. **Bayesian Inference and Maximum Entropy Methods in Science and Engineering, AIP Conference Proceedings** 1443:7-13 (2012)
 
 ## Other publications
-1. "[Corrigendum to "An Impossibility Theorem for Wealth in Heterogeneous-agent Models with Limited Heterogeneity \[Journal of Economics Theory 182 (2019) 1-24\]](https://doi.org/10.1016/j.jet.2020.105066)", with *John Stachurski*, **Journal of Economic Theory** 188: 105066 (2020)
+1. "[Corrigendum to "An Impossibility Theorem for Wealth in Heterogeneous-agent Models with Limited Heterogeneity \[Journal of Economics Theory 182 (2019) 1-24\]](https://doi.org/10.1016/j.jet.2020.105066)", with *John Stachurski*, **Journal of Economic Theory** 188:105066 (2020)
 
 ## Working papers
 1. "Collateralized Loans, Pooling, and Maximum Leverage", revise and resubmit at **Theoretical Economics** [PDF](http://ssrn.com/abstract=2336582)
