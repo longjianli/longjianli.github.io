@@ -9,16 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Detailed PDF version is [here](https://drive.google.com/file/d/0B1swfC7fTvvpbFB6eWF2ay1ZbVE/view)
+## Detailed PDF version is [here](https://drive.google.com/file/d/0B1swfC7fTvvpbFB6eWF2ay1ZbVE/view)
 
-Personal Information
-=====
+## Personal Information
 - Place of birth: Montréal, Quebéc, Canada
 - Citizenship: Canadian, Japanese (U.S. Permanent Resident)
 - Language: English (fluent), French (fluent), Japanese (native)
 
-Research Interests
-=====
+## Research Interests
 - Power law in economics and finance
 - Financial theory
 - Macroeconomic theory
@@ -27,13 +25,11 @@ Research Interests
 - Mathematical economics
 - Econometrics
 
-Appointments and Affiliations
-=====
+## Appointments and Affiliations
 * Associate Professor, [Department of Economics, University of California San Diego](https://economics.ucsd.edu/), 2019-Present
 * Assistant Professor, [Department of Economics, University of California San Diego](https://economics.ucsd.edu/), 2013-2019
 
-Education
-======
+## Education
 * Ph.D., [Department of Economics, Yale University](https://economics.yale.edu/), 2013
 * M.Phil., [Department of Economics, Yale University](https://economics.yale.edu/), 2011
 * M.A., [Department of Economics, Yale University](https://economics.yale.edu/), 2011
@@ -41,13 +37,6 @@ Education
 * M.D., [Faculty of Medicine, University of Tokyo](http://www.m.u-tokyo.ac.jp/english/), 2004
 * B.A., [Faculty of Medicine, University of Tokyo](http://www.m.u-tokyo.ac.jp/english/), 2004
 
-Qualifications
-=====
+## Qualifications
 * Board Certified Anesthesiologist, Japan
 * Medical Doctor, Japan
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
