@@ -3,6 +3,7 @@ title: "Mathematical Economics/General Equilibrium (Econ 113/200B)"
 collection: teaching
 type: "Undergraduate/Graduate"
 permalink: /teaching/mathematical-economics
+venue: "UCSD"
 date: 2020-01-01
 ---
 
