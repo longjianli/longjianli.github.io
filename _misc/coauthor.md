@@ -1,5 +1,5 @@
 ---
-title: "List of coauthors"
+title: "Coauthors"
 excerpt: "List of my coauthors"
 collection: misc
 permalink: /misc/coauthor
