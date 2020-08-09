@@ -5,6 +5,8 @@ collection: misc
 permalink: /misc/coauthor
 ---
 
+Below is a list of my coauthors (in alphabetical order by last name). Let me know if the links are outdated. 
+
  1. [Sherzod Akhundjanov](https://sites.google.com/site/sherzodba/)
  1. Johji Arakawa
  1. [Brendan Beare](https://www.brendanbeare.com/)
