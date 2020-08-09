@@ -3,6 +3,7 @@ title: "Mathematics for Economists (Econ 205)"
 collection: teaching
 type: "Graduate"
 permalink: /teaching/mathcamp
+date: 2020-09-01
 ---
 
 This course covers mathematical topics that are essential for economics.
