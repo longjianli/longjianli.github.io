@@ -3,6 +3,7 @@ title: "Mathematics for Economists (Econ 205)"
 collection: teaching
 type: "Graduate"
 permalink: /teaching/mathcamp
+venue: "UCSD"
 date: 2020-09-01
 ---
 
