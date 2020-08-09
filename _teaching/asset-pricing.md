@@ -7,7 +7,7 @@ venue: "UCSD"
 date: 2017-09-01
 ---
 
-This course covers topics in finance theory. I no longer teach this course.
+This course covers topics in finance theory. I do not currently teach this course.
 
 ## [Syllabus](/files/272_syllabus.pdf)
 
