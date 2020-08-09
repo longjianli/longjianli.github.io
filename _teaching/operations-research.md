@@ -3,6 +3,7 @@ title: "Operations Research (Econ 172B)"
 collection: teaching
 type: "Undergraduate"
 permalink: /teaching/operations-research
+date: 2015-01-01
 ---
 
 This course covers some topics in operations research, such as convex analysis, nonlinear programming, and dynamic programming. I no longer teach this course.
