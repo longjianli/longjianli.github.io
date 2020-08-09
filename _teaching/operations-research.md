@@ -3,6 +3,7 @@ title: "Operations Research (Econ 172B)"
 collection: teaching
 type: "Undergraduate"
 permalink: /teaching/operations-research
+venue: "UCSD"
 date: 2015-01-01
 ---
 
