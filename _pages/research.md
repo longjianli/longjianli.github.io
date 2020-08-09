@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-I am an "applied general equilibrium theorist", meaning that I am a theorist interested in general equilibrium theory and its applications (typically in finance and macroeconomics). In addition to papers in mathematical economics and finance, I have written many papers on [power law](https://en.wikipedia.org/wiki/Power_law), which naturally emerges in dynamic general equilibrium models with heterogeneous agents. I have also written several papers on numerical methods (discretization of probability distributions and stochastic processes), which are useful for numerically solving models (see the discretization page). Below is the complete publication list.
+I am an "applied general equilibrium theorist", meaning that I am a theorist interested in general equilibrium theory and its applications (typically in finance and macroeconomics). In addition to papers in mathematical economics and finance, I have written many papers on [power law](https://en.wikipedia.org/wiki/Power_law), which naturally emerges in dynamic general equilibrium models with heterogeneous agents. I have also written several papers on numerical methods (discretization of probability distributions and stochastic processes), which are useful for numerically solving models (see the [discretization page](/discretization/)). Below is the complete publication list.
 
 ## Refereed research articles (reverse chronological)
 
