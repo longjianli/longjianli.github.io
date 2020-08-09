@@ -1,0 +1,379 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{test}
+\RequirePackage{amsmath,amsthm,amssymb,mathtools}
+
+% bibliography
+\newcommand{\noopsort}[2]{#2}
+
+% author footnote
+\newcommand\samethanks[1][\value{footnote}]{\footnotemark[#1]}
+
+% two- and three- dimensional vectors
+\newcommand{\bvec}[2]{\genfrac{[}{]}{0pt}{}{#1}{#2}}
+\newcommand{\twovec}[2]{\begin{bmatrix}#1\\ #2\end{bmatrix}}
+\newcommand{\threevec}[3]{\begin{bmatrix}#1\\ #2\\ #3\end{bmatrix}}
+
+% modes of convergence
+\newcommand{\pto}{\xrightarrow{\mathrm{p}}}
+\newcommand{\dto}{\xrightarrow{\mathrm{d}}}
+\newcommand{\asto}{\xrightarrow{\mathrm{a.s.}}}
+\newcommand{\msto}{\xrightarrow{\mathrm{m.s.}}}
+\newcommand{\lpto}[1]{\xrightarrow{L^{#1}}} % L^p convergence
+
+%% Theorem-type environment
+
+\theoremstyle{plain}
+\newtheorem{thm}{\bf Theorem}
+\newtheorem*{thm*}{\bf Theorem}
+\newtheorem{lem}[thm]{\bf Lemma}
+\newtheorem*{lem*}{\bf Lemma}
+\newtheorem{prop}[thm]{\bf Proposition}
+\newtheorem*{prop*}{\bf Proposition}
+\newtheorem{cor}[thm]{\bf Corollary}
+\newtheorem*{cor*}{\bf Corollary}
+\newtheorem{asmp}{\bf Assumption}
+\newtheorem*{claim}{Claim}
+
+\theoremstyle{definition}
+\newtheorem{defn}[thm]{\bf Definition}
+\newtheorem*{defn*}{\bf Definition}
+\newtheorem{conj}[thm]{\bf Conjecture}
+\newtheorem{exmp}{\bf Example}
+\newtheorem{prob}{}
+\newtheorem{subprob}{}[section]
+\renewcommand{\thesubprob}{(\alph{subprob})}
+\newtheorem{algorithm}{\bf Algorithm}
+\newtheorem*{algorithm*}{\bf Algorithm}
+
+\theoremstyle{remark}
+\newtheorem*{rem}{\bf Remark}
+%\newtheorem*{note}{\bf Note}
+
+% Cases and steps, to be used in proofs.
+% If used in text, put ``\setcounter{case}{0}" before.
+\newtheoremstyle{case}{}{}{}{}{\bfseries\boldmath}{.}{.5em}
+{\thmname{#1} \thmnumber{#2}: \thmnote{#3}}
+\theoremstyle{case}
+\newtheorem{case}{\bf Case}[thm]
+\renewcommand{\thecase}{\arabic{case}}
+\newtheorem{subcase}{\bf Case}[case]
+
+\newtheoremstyle{step}{}{}{\itshape}{}{\itshape}{.}{.5em}{\thmname{#1} \thmnumber{#2}}
+\theoremstyle{step}
+\newtheorem{step}{Step}[thm]
+\renewcommand{\thestep}{\arabic{step}}
+
+% one-shot theorem-like environment such as ``Zorn's Lemma"
+\newtheoremstyle{oneshot}{}{}{}{}{\bfseries\boldmath}{.}{.5em}{\thmnote{#3}}
+\theoremstyle{oneshot}
+\newtheorem*{oneshot}{}
+
+% ----------------------------------------------------------------------
+%  Common abbreviations and words with accents
+% ----------------------------------------------------------------------
+
+% ---- LATIN ----
+\def\etal{\emph{et~al.}}
+\def\ie{\textrm{i.e.}}
+\def\eg{\textrm{e.g.}}
+\def\cf{\textrm{c.f.}}
+\def\vitae{vit\ae{}}
+\def\apriori{\emph{a~priori}}
+\def\aposteriori{\emph{a~posteriori}}
+
+% ---- FRENCH ----
+\def\naive{na\"{\i}ve}
+\def\Naive{Na\"{\i}ve}
+\def\naively{na\"{\i}vely}	% Okay, I know, this isn't French.
+\def\Naively{Na\"{\i}vely}
+\def\cafe{caf\'e}
+
+% ---- GERMAN ----
+\def\fur{f\"ur}
+\def\Universitat{Universit\"at}
+\def\Saarbrucken{Saar\-br\"ucken}	% Bypass TeX hyphenation
+\def\Zurich{Z\"urich}
+
+% Other
+\def\Cplusplus{C\raisebox{0.5ex}{\tiny\bf++}}
+\def\iid{i.i.d.}
+\def\maximize{\operatornamewithlimits{maximize}}
+\def\minimize{\operatornamewithlimits{minimize}}
+\def\st{\operatorname{subject~to}}
+
+
+% ----------------------------------------------------------------------
+%  Simple math stuff
+% ----------------------------------------------------------------------
+
+% ---- SYMBOLS ----
+\newcommand{\e}{\mathrm{e}} % exponential
+\newcommand{\diff}{\mathop{}\!\mathrm{d}} % differential
+\newcommand{\ubar}[1]{\text{\b{$#1$}}} % underbar
+\renewcommand{\Re}{\operatorname{Re}}
+\renewcommand{\Im}{\operatorname{Im}}
+
+%\def\Integer{\mathsf{Z\hspace{-0.4em}Z}}
+%\def\Natural{\mathrm{I\!N}}
+%\def\Real{\mathrm{I\!R}}
+%\def\Proj{\mathrm{I\!P}}		% projective space
+%\def\Hyper{\mathrm{I\!H}}	% hyperbolic space
+
+%
+%  These two look okay in Computer Modern 11pt, or Concrete Roman
+%  12pt, but they need serious work in other sizes.  I need to figure
+%  out how to draw a vertical bar, or better yet a shallow arc, inside
+%  the bowls.  Or maybe I need to learn METAFONT.  Or maybe I should just
+%  hold my nose and use \mathbb.
+%
+%\def\Complex{\mathrm{\,\raise 0.33ex\hbox{\scriptsize\bf(}\!\!\!C}}
+%\def\Rational{\mathrm{\,\raise 0.33ex\hbox{\scriptsize\bf(}\!\!\!Q}}
+
+%
+%  Here are more standard, but uglier, versions of these symbols.
+%  They stick out, because they're all in Times Roman Bold Outline!
+%  I *really* want a Blackboard style the matches the default text
+%  font, whatever that happens to be, but I'd settle for Computer
+%  Modern Blackboard.
+%
+\def\Real{\mathbb{R}}
+\def\Proj{\mathbb{P}}
+\def\Hyper{\mathbb{H}}
+\def\Integer{\mathbb{Z}}
+\def\Natural{\mathbb{N}}
+\def\Complex{\mathbb{C}}
+\def\Rational{\mathbb{Q}}
+
+\let\N\Natural
+\let\Q\Rational
+\let\R\Real
+\let\Z\Integer
+\let\C\Complex
+\def\Rd{\Real^d}
+\def\RP{\Real\Proj}
+\def\CP{\Complex\Proj}
+
+
+% ---- OPERATORS (requires amsmath) ----
+\def\aff{\operatorname{aff}}		% (\Line is better!)
+\def\area{\operatorname{area}}
+\def\argmax{\operatornamewithlimits{arg\,max}}
+\def\argmin{\operatornamewithlimits{arg\,min}}
+\def\Aut{\operatorname{Aut}}		% Automorphism group
+\def\card{\operatorname{card}}		% cardinality, deprecated for \abs
+\def\cl{\operatorname{cl}}		% closure
+\def\co{\operatorname{co}}          % convex hull
+\def\conv{\operatorname{conv}}		% convex hull
+\def\E{\operatorname{E}}		% Expectation: $\E[X]$ (like \Pr)
+\def\EE{\operatornamewithlimits{E}}
+\def\epi{\operatorname{epi}}		% epigraph
+\def\Hom{\operatorname{Hom}}		% Homomorphism group
+\def\id{\operatorname{id}}		% identity
+\def\im{\operatorname{im}}		% image
+\def\lcm{\operatorname{lcm}}
+\def\lfs{\operatorname{lfs}}		% local feature size
+\def\poly{\operatorname{poly}}
+\def\polylog{\operatorname{polylog}}
+\def\rank{\operatorname{rank}}      % rank
+\def\rel{\operatorname{rel\,}}		% relative (interior, boundary, etc.)
+\def\sgn{\operatorname{sgn}}        % sign
+\def\vol{\operatorname{vol}}		% volume
+\def\diag{\operatorname{diag}}		% diagonal matrix
+\def\interior{\operatorname{int}}	% interior
+\def\ri{\operatorname{ri}}		    % relative interior
+\def\var{\operatorname{Var}}		% variance
+\def\cov{\operatorname{Cov}}		% covariance
+\def\dom{\operatorname{dom}}		% domain
+\def\plim{\operatornamewithlimits{plim}}% limit in probability
+\def\supp{\operatorname{supp}}		% support
+\def\ess{\operatorname{ess}}		% essential (supremum, etc)
+\def\range{\operatorname{range}}	% range
+\def\cone{\operatorname{cone}}		% cone
+\def\dist{\operatorname{dist}}		% distance
+\def\pdf{\operatorname{pdf}}		% probability density function
+\def\cdf{\operatorname{cdf}}		% cumulative distribution function
+\def\ex{\operatorname{ex}}		    % extreme points
+\def\erf{\operatorname{erf}}		% error function
+\def\erfc{\operatorname{erfc}}		% complementary error function
+\def\tr{\operatorname{tr}}          % trace
+
+\def\fp#1{^{\underline{#1}}}            % falling powers: $n\fp{d}$
+\def\rp#1{^{\overline{#1}}}             % rising powers:  $n\rp{d}$
+
+% ---- RELATORS ----
+\def\deq{\stackrel{\scriptscriptstyle\triangle}{=}}
+\def\mapsfrom{\leftarrow\!\mapstochar\,}
+\let\into\hookrightarrow		% = one-to-one
+\let\onto\twoheadrightarrow
+\def\inonto{\DOTSB\lhook\joinrel\twoheadrightarrow}
+\let\from\leftarrow
+\let\tofrom\leftrightarrow
+
+% --- Self-scaling delmiter pairs ---
+
+% first is copied from braket.sty
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\def\bra#1{\mathinner{\langle{#1}|}}
+\def\ket#1{\mathinner{|{#1}\rangle}}
+\def\braket#1{\mathinner{\langle{#1}\rangle}}
+\def\Bra#1{\left\langle#1\right|}
+\def\Ket#1{\left|#1\right\rangle}
+%
+\let\protect\relax
+%
+{\catcode`\|=\active
+  \xdef\Braket{\protect\expandafter\noexpand\csname Braket \endcsname}
+  \expandafter\gdef\csname Braket \endcsname#1{\begingroup
+     \ifx\SavedDoubleVert\relax
+       \let\SavedDoubleVert\|\let\|\BraDoubleVert
+     \fi
+     \mathcode`\|32768\let|\BraVert
+     \left\langle{#1}\right\rangle\endgroup}
+}
+\def\BraVert{\@ifnextchar|{\|\@gobble}% turn || into \|
+     {\egroup\,\mid@vertical\,\bgroup}}
+\def\BraDoubleVert{\egroup\,\mid@dblvertical\,\bgroup}
+\let\SavedDoubleVert\relax
+
+% The \mid@vertical is \vrule with ordinary TeX but \middle| in eTeX.
+% We always avoid a \mathchoice in making the inner vertical lines.
+% Note that \right\rangle is used now due to a failing in fourier.sty.
+%
+% \def\ketbra#1#2{\ket{#1}\bra{#2}}
+% \def\Ketbra#1#2{\left|{#1}\vphantom{#2}\right\rangle\left\langle{#2}\vphantom{#1}\right|}
+
+% \set{...|...}, \CE{...|...}, etc. Only the first | is treated specially.
+{\catcode`\|=\active
+  \xdef\set{\protect\expandafter\noexpand\csname set \endcsname}
+  \expandafter\gdef\csname set \endcsname#1{\left\{%
+     \ifx\SavedDoubleVert\relax \let\SavedDoubleVert\|\fi
+     {\let\|\SetDoubleVert
+     \mathcode`\|32768\let|\SetVert
+     #1}\right\}}
+  \xdef\CE{\protect\expandafter\noexpand\csname CE \endcsname}
+  \expandafter\gdef\csname CE \endcsname#1{\E\left[%
+     \ifx\SavedDoubleVert\relax \let\SavedDoubleVert\|\fi
+     {\let\|\SetDoubleVert
+     \mathcode`\|32768\let|\SetVert
+     #1}\right]}
+  \xdef\Ccov{\protect\expandafter\noexpand\csname Ccov \endcsname}
+  \expandafter\gdef\csname Ccov \endcsname#1{\cov\left[%
+     \ifx\SavedDoubleVert\relax \let\SavedDoubleVert\|\fi
+     {\let\|\SetDoubleVert
+     \mathcode`\|32768\let|\SetVert
+     #1}\right]}
+  \xdef\Cvar{\protect\expandafter\noexpand\csname Cvar \endcsname}
+  \expandafter\gdef\csname Cvar \endcsname#1{\var\left[%
+     \ifx\SavedDoubleVert\relax \let\SavedDoubleVert\|\fi
+     {\let\|\SetDoubleVert
+     \mathcode`\|32768\let|\SetVert
+     #1}\right]}
+}
+\def\midvert{\egroup\mid\bgroup}
+\def\SetVert{\@ifnextchar|{\|\@gobble}% turn || into \|
+    {\egroup\,\mid@vertical\,\bgroup}}
+\def\SetDoubleVert{\egroup\,\mid@dblvertical\,\bgroup}
+
+% If the user is using e-TeX with its \middle primitive, use that for
+% verticals instead of \vrule.
+%
+\begingroup
+ \edef\@tempa{\meaning\middle}
+ \edef\@tempb{\string\middle}
+\expandafter \endgroup \ifx\@tempa\@tempb
+ \def\mid@vertical{\middle|}
+ \def\mid@dblvertical{\middle\SavedDoubleVert}
+\else
+ \def\mid@vertical{\mskip1mu\vrule\mskip1mu}
+ \def\mid@dblvertical{\mskip1mu\vrule\mskip2.5mu\vrule\mskip1mu}
+\fi
+
+% May 2005: Double verticals; tweak spacing.
+% June 2005: Make robust
+% Sept 2006: fourier
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\def\floor#1{\left\lfloor #1 \right\rfloor}
+\def\ceil#1{\left\lceil #1 \right\rceil}
+\def\seq#1{\left\langle #1 \right\rangle}
+\def\abs#1{\left\lvert #1 \right\rvert}
+\def\norm#1{\left\lVert #1 \right\rVert}
+
+%  Math mode fbox
+\def\mfbox#1{\mathchoice{{\fbox{\ensuremath{\displaystyle #1}}}}
+			{{\fbox{\ensuremath{\textstyle #1}}}}
+			{{\fbox{\ensuremath{\scriptstyle #1}}}}
+			{{\fbox{\ensuremath{\scriptscriptstyle #1}}}}}
+
+% ---- ``ACCENTS'' ----
+%   NB: Commands equivalent to \lrarrowfill and \overlrarrow are
+%       already defined in amstex!
+\def\lrarrowfill{$\m@th\mathord\leftarrow\mkern-6mu%
+  \cleaders\hbox{$\mkern-2mu\mathord-\mkern-2mu$}\hfill
+  \mkern-6mu\mathord\rightarrow$}
+\def\overlrarrow#1{\vbox{\ialign{##\crcr
+      \lrarrowfill\crcr\noalign{\kern-\p@\nointerlineskip}
+      $\hfil\displaystyle{#1}\hfil$\crcr}}}
+
+\def\Line#1{\!\overlrarrow{\vphantom{t}\smash{\,#1\,}}\!}
+\def\Ray#1{\overrightarrow{\vphantom{t}#1\,}\!}
+\def\Seg#1{\overline{\vphantom{t}#1}}
+
+% --- TEXT STYLES ---
+\def\mathsc#1{\text{\textsc{#1}}}
+\def\mathbs#1{\text{\boldmath\ensuremath{#1}}}
+\def\EMPH#1{\textbf{\emph{\boldmath #1}}}
+
+% ----------------------------------------------------------------------
+%  \begin{bigabstract}...\end{bigabstract}
+%  For use in documents with title pages.  Use normal-sized text in
+%  the abstract!
+% ----------------------------------------------------------------------
+\newenvironment{bigabstract}%
+{\medskip\noindent\centerline{\textbf{\large\abstractname}}\begin{quotation}}%
+{\end{quotation}}
+
+% ----------------------------------------------------------------------
+%  Make captions smaller than the text, make their titles bold.
+%  Arguments:   #1 == figure name: "Figure 5"
+%               #2 == caption: "Papers by \Erdos, 1900--2000 (projected)"
+%  Less space after floats and before caption, since captions are smaller
+% ----------------------------------------------------------------------
+\@ifundefined{abovecaptionskip}{\newlength\abovecaptionskip}
+\long\def\@makecaption#1#2{
+   \vskip \abovecaptionskip
+   \setbox\@tempboxa\hbox{{\sf\footnotesize \textbf{#1.} #2}}
+   \ifdim \wd\@tempboxa >\hsize         % IF longer than one line:
+       {\sf\footnotesize \textbf{#1.} #2\par}% THEN set as ordinary paragraph.
+     \else                              %   ELSE  center.
+       \hbox to\hsize{\hfil\box\@tempboxa\hfil}
+   \fi}
+\dbltextfloatsep 18pt plus 2pt minus 4pt% was 20pt plus 2pt minus 4pt
+\textfloatsep 18pt plus 2pt minus 4pt   % was 20pt plus 2pt minus 4pt
+\abovecaptionskip 6pt			% was 10pt
+
+% ----------------------------------------------------------------------
+%  \now  -- Current time in h:mm AM/PM format
+%  \mdyy -- Today's date in m/d/yy format.  Forget Y2K; this is for humans!
+% ----------------------------------------------------------------------
+\newcount\timehh\timehh=\time
+\divide\timehh by 60
+\newcount\timemm\timemm=\time
+\count255=\timehh
+\multiply\count255 by -60
+\advance\timemm by \count255
+\newif\iftimePM
+\ifnum\timehh>11 \timePMtrue\else\timePMfalse\fi
+\ifnum\timehh<1 \advance\timehh by 12\fi
+\ifnum\timehh>12 \advance\timehh by -12\fi
+\def\now{\number\timehh:\ifnum\timemm<10 0\fi\number\timemm
+         \iftimePM pm\else am\fi}
+\newcount\mdYY\mdYY=\year
+\count255=\year
+\divide\count255 by 100
+\multiply\count255 by 100
+\advance\mdYY by -\count255
+\def\mdyy{\number\month/\number\day/\ifnum\mdYY<10 0\fi\number\mdYY}
+
+\endinput
+%%
+%% End of file `test.sty'.
