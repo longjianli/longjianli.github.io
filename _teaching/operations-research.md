@@ -7,7 +7,7 @@ venue: "UCSD"
 date: 2015-01-01
 ---
 
-This course covers some topics in operations research, such as convex analysis, nonlinear programming, and dynamic programming. I no longer teach this course.
+This course covers some topics in operations research, such as convex analysis, nonlinear programming, and dynamic programming. I do not currently teach this course.
 
 ## Past exams
 - [Winter 2014 Midterm 1](/files/172B_2014W_M1.pdf)
