@@ -2,6 +2,7 @@
 title: "Letter of recommendation"
 excerpt: "My policy for writing letters of recommendation"
 collection: misc
+permalink: /misc/letter-of-recommendation
 ---
 
 Every year I receive many requests for letters of recommendation. Before you ask me for a letter, please read the instructions carefully.
