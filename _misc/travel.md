@@ -19,3 +19,47 @@ Scotland |	Natural beauty | |
 Taiwan |	Great (and cheap) food; Friendly people |	Hot and humid climate |
 Turkey |	Great food; History; Friendly people | |
 United States |	Capitalism; Low taxes |	Gun violence; Public transportation; Non-SI units (mile, ounce, etc.); Department of Motor Vehicles |
+
+1. Argentina
+1. Australia
+1. Austria
+1. Barbados
+1. Belgium
+1. Bermuda
+1. Canada
+1. Chile
+1. China
+1. Costa Rica
+1. Cuba
+1. Denmark
+1. El Salvador
+1. England
+1. France
+1. Germany
+1. Greece
+1. Hong Kong
+1. Indonesia
+1. Ireland
+1. Italy
+1. Japan
+1. Liechtenstein
+1. Macau
+1. Mexico
+1. Morocco
+1. Netherlands
+1. New Zealand
+1. Panama
+1. Portugal
+1. Russia
+1. Scotland
+1. Singapore
+1. South Korea
+1. Spain
+1. Sweden
+1. Switzerland
+1. Taiwan
+1. Thailand
+1. Turkey
+1. United States
+1. Vatican City
+1. Wales
