@@ -4,7 +4,7 @@ type: "Graduate"
 collection: teaching
 permalink: /teaching/asset-pricing
 venue: "UCSD"
-date: 2014-01-01
+date: 2017-09-01
 ---
 
 This course covers topics in finance theory. I no longer teach this course.
