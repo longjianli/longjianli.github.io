@@ -1,6 +1,6 @@
 ---
 title: "Financial Markets (Econ 173A)"
-type: "Undergraduate course in finance"
+type: "Undergraduate"
 collection: teaching
 permalink: /teaching/financial-markets
 venue: "UCSD"
