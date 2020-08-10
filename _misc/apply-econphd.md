@@ -13,6 +13,7 @@ To become an economics professor, you need an economics Ph.D. There are already 
 1. Letter of recommendation,
 1. Mathematics,
 1. Relevant research experience.
+
 Below, I discuss these points in a bit more detail. My advice is aimed at top 10-20 programs (since UCSD is one of them).
 
 ## Letter of recommendation
