@@ -20,7 +20,7 @@ Below, I discuss these points in a bit more detail. My advice is aimed at top 10
 What you need are *informative* and *credible* letters of recommendation. Letters should be informative so that evaluators can tell how good you are. When I write recommendation letters (for Ph.D. programs), I write things like
 - this student took such-and-such class (some course description) in 20XX and ranked \\(n\\) among \\(N\\) students,
 - this student has taken this, this, and that mathematics courses and obtained A in all of them,
-- among all students I have interacted with, this student compares to so-and so who graduated in 20XX and went to such-and-such program,
+- among all students I have interacted with, this student compares to so-and-so who graduated in 20XX and went to such-and-such program,
 
 etc. Since competitive programs receive hundreds of strong applications, evaluators need concrete information to make informed decisions. Letters that praise the applicant without concrete evidence just get ignored. Letters should also be credible. Glowing but dubious letters just get ignored. To get credible letters, ask professors that have taught you (and know you) and have good reputations and respectable publication records (you can check this by looking at their CVs). If you want me to write you a letter, read [this instruction](/misc/letter-of-recommendation).
 
