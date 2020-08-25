@@ -9,6 +9,8 @@ date: 2020-08-01
 
 This course covers mathematical topics that are essential for economics.
 
+## [Syllabus](/files/205_syllabus.pdf)
+
 ## [Lecture note](https://www.dropbox.com/s/jbb95yef6fkxxex/mathprog.pdf)
 
 ## Past exams
