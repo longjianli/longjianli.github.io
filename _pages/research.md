@@ -80,7 +80,7 @@ I am an "applied general equilibrium theorist", meaning that I am a theorist int
 ## Working papers
 1. "Collateralized Loans, Pooling, and Maximum Leverage", revise and resubmit at **Theoretical Economics** [PDF](http://ssrn.com/abstract=2336582)
 1. "Zipf's Law: A Microfoundation" [PDF](http://ssrn.com/abstract=2808237)
-1. "Bad News and Robust Comparative Statics for the Elasticity of Intertemporal Substitution", with *Lawrence Schmidt* [PDF](http://ssrn.com/abstract=2544688)
+1. "Bad News and Robust Comparative Statics for the Elasticity of Intertemporal Substitution", with *Lawrence Schmidt*, revise and resubmit at **Theoretical Economics** [PDF](http://ssrn.com/abstract=2544688)
 1. "Geometrically Stopped Markovian Random Growth Processes and Pareto Tails", with *Brendan K. Beare*, revise and resubmit at **Econometrica** [PDF](https://arxiv.org/abs/1712.01431) [Slides](https://www.dropbox.com/s/8q03zjtn1jak2ju/randomgrowth_slides8_short.pdf)
 1. "Pareto Extrapolation: An Analytical Framework for Studying Tail Inequality", with *Emilien Gouin-Bonenfant* [PDF](https://ssrn.com/abstract=3260899) [Code](https://github.com/alexisakira/Pareto-extrapolation)
 1. "Extremal Behavior of Light-tailed Markov-modulated Lévy Processes Stopped at a State-dependent Poisson Rate", with *Brendan K. Beare and Won-Ki Seo*, revise and resubmit at **Econometric Theory** [PDF](https://sites.google.com/site/aatoda111/file-cabinet/MMLevy_03.pdf)
