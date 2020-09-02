@@ -11,7 +11,7 @@ This course covers mathematical topics that are essential for economics.
 
 ## [Syllabus](/files/205_syllabus.pdf)
 
-## [Lecture note](https://www.dropbox.com/s/jbb95yef6fkxxex/mathprog.pdf)
+## [Lecture note](/files/mathprog.pdf)
 
 ## Past exams
 - [2015 Final](/files/econ205final2015_withoutsol.pdf) [Solution](/files/econ205final2015_withsol.pdf)
