@@ -1,6 +1,6 @@
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesPackage{test}
-\RequirePackage{amsmath,amsthm,amssymb,mathtools}
+\RequirePackage{amsmath,amsthm,amssymb,mathtools,xspace}
 
 % bibliography
 \newcommand{\noopsort}[2]{#2}
@@ -9,7 +9,6 @@
 \newcommand\samethanks[1][\value{footnote}]{\footnotemark[#1]}
 
 % two- and three- dimensional vectors
-\newcommand{\bvec}[2]{\genfrac{[}{]}{0pt}{}{#1}{#2}}
 \newcommand{\twovec}[2]{\begin{bmatrix}#1\\ #2\end{bmatrix}}
 \newcommand{\threevec}[3]{\begin{bmatrix}#1\\ #2\\ #3\end{bmatrix}}
 
@@ -23,40 +22,41 @@
 %% Theorem-type environment
 
 \theoremstyle{plain}
-\newtheorem{thm}{\bf Theorem}
-\newtheorem*{thm*}{\bf Theorem}
-\newtheorem{lem}[thm]{\bf Lemma}
-\newtheorem*{lem*}{\bf Lemma}
-\newtheorem{prop}[thm]{\bf Proposition}
-\newtheorem*{prop*}{\bf Proposition}
-\newtheorem{cor}[thm]{\bf Corollary}
-\newtheorem*{cor*}{\bf Corollary}
-\newtheorem{asmp}{\bf Assumption}
+\newtheorem{thm}{Theorem}
+\newtheorem*{thm*}{Theorem}
+\newtheorem{lem}[thm]{Lemma}
+\newtheorem*{lem*}{Lemma}
+\newtheorem{prop}[thm]{Proposition}
+\newtheorem*{prop*}{Proposition}
+\newtheorem{cor}[thm]{Corollary}
+\newtheorem*{cor*}{Corollary}
+\newtheorem{asmp}{Assumption}
+\newtheorem*{asmp*}{Assumption}
 \newtheorem*{claim}{Claim}
+\newtheorem{conj}[thm]{Conjecture}
 
 \theoremstyle{definition}
-\newtheorem{defn}[thm]{\bf Definition}
-\newtheorem*{defn*}{\bf Definition}
-\newtheorem{conj}[thm]{\bf Conjecture}
-\newtheorem{exmp}{\bf Example}
+\newtheorem{defn}[thm]{Definition}
+\newtheorem*{defn*}{Definition}
+\newtheorem{exmp}{Example}
+\newtheorem*{exmp*}{Example}
 \newtheorem{prob}{}
 \newtheorem{subprob}{}[section]
 \renewcommand{\thesubprob}{(\alph{subprob})}
-\newtheorem{algorithm}{\bf Algorithm}
-\newtheorem*{algorithm*}{\bf Algorithm}
+\newtheorem{algorithm}{Algorithm}
+\newtheorem*{algorithm*}{Algorithm}
 
 \theoremstyle{remark}
-\newtheorem*{rem}{\bf Remark}
-%\newtheorem*{note}{\bf Note}
+\newtheorem*{rem}{Remark}
 
 % Cases and steps, to be used in proofs.
 % If used in text, put ``\setcounter{case}{0}" before.
 \newtheoremstyle{case}{}{}{}{}{\bfseries\boldmath}{.}{.5em}
 {\thmname{#1} \thmnumber{#2}: \thmnote{#3}}
 \theoremstyle{case}
-\newtheorem{case}{\bf Case}[thm]
+\newtheorem{case}{Case}[thm]
 \renewcommand{\thecase}{\arabic{case}}
-\newtheorem{subcase}{\bf Case}[case]
+\newtheorem{subcase}{Case}[case]
 
 \newtheoremstyle{step}{}{}{\itshape}{}{\itshape}{.}{.5em}{\thmname{#1} \thmnumber{#2}}
 \theoremstyle{step}
@@ -72,35 +72,22 @@
 %  Common abbreviations and words with accents
 % ----------------------------------------------------------------------
 
-% ---- LATIN ----
-\def\etal{\emph{et~al.}}
-\def\ie{\textrm{i.e.}}
-\def\eg{\textrm{e.g.}}
-\def\cf{\textrm{c.f.}}
-\def\vitae{vit\ae{}}
-\def\apriori{\emph{a~priori}}
-\def\aposteriori{\emph{a~posteriori}}
+% ---- Latin ----
+\newcommand{\etal}{\emph{et~al.}\xspace}
+\newcommand{\ie}{\textrm{i.e.}}
+\newcommand{\eg}{\textrm{e.g.}}
+\newcommand{\cf}{\textrm{c.f.}}
 
-% ---- FRENCH ----
-\def\naive{na\"{\i}ve}
-\def\Naive{Na\"{\i}ve}
-\def\naively{na\"{\i}vely}	% Okay, I know, this isn't French.
-\def\Naively{Na\"{\i}vely}
-\def\cafe{caf\'e}
-
-% ---- GERMAN ----
-\def\fur{f\"ur}
-\def\Universitat{Universit\"at}
-\def\Saarbrucken{Saar\-br\"ucken}	% Bypass TeX hyphenation
-\def\Zurich{Z\"urich}
+% --- French ----
+\newcommand{\Levy}{L\'evy\xspace}
+\newcommand{\cadlag}{c\`adl\`ag\xspace}
 
 % Other
-\def\Cplusplus{C\raisebox{0.5ex}{\tiny\bf++}}
-\def\iid{i.i.d.}
-\def\maximize{\operatornamewithlimits{maximize}}
-\def\minimize{\operatornamewithlimits{minimize}}
-\def\st{\operatorname{subject~to}}
-
+\newcommand{\Cplusplus}{C\raisebox{0.5ex}{\tiny\bf++}}
+\newcommand{\iid}{\textsc{iid}\xspace}
+\newcommand{\maximize}{\operatornamewithlimits{maximize}}
+\newcommand{\minimize}{\operatornamewithlimits{minimize}}
+\newcommand{\st}{\text{subject~to}}
 
 % ----------------------------------------------------------------------
 %  Simple math stuff
@@ -113,103 +100,50 @@
 \renewcommand{\Re}{\operatorname{Re}}
 \renewcommand{\Im}{\operatorname{Im}}
 
-%\def\Integer{\mathsf{Z\hspace{-0.4em}Z}}
-%\def\Natural{\mathrm{I\!N}}
-%\def\Real{\mathrm{I\!R}}
-%\def\Proj{\mathrm{I\!P}}		% projective space
-%\def\Hyper{\mathrm{I\!H}}	% hyperbolic space
-
-%
-%  These two look okay in Computer Modern 11pt, or Concrete Roman
-%  12pt, but they need serious work in other sizes.  I need to figure
-%  out how to draw a vertical bar, or better yet a shallow arc, inside
-%  the bowls.  Or maybe I need to learn METAFONT.  Or maybe I should just
-%  hold my nose and use \mathbb.
-%
-%\def\Complex{\mathrm{\,\raise 0.33ex\hbox{\scriptsize\bf(}\!\!\!C}}
-%\def\Rational{\mathrm{\,\raise 0.33ex\hbox{\scriptsize\bf(}\!\!\!Q}}
-
-%
-%  Here are more standard, but uglier, versions of these symbols.
-%  They stick out, because they're all in Times Roman Bold Outline!
-%  I *really* want a Blackboard style the matches the default text
-%  font, whatever that happens to be, but I'd settle for Computer
-%  Modern Blackboard.
-%
-\def\Real{\mathbb{R}}
-\def\Proj{\mathbb{P}}
-\def\Hyper{\mathbb{H}}
-\def\Integer{\mathbb{Z}}
-\def\Natural{\mathbb{N}}
-\def\Complex{\mathbb{C}}
-\def\Rational{\mathbb{Q}}
-
-\let\N\Natural
-\let\Q\Rational
-\let\R\Real
-\let\Z\Integer
-\let\C\Complex
-\def\Rd{\Real^d}
-\def\RP{\Real\Proj}
-\def\CP{\Complex\Proj}
-
+\newcommand{\N}{\mathbb{N}} % natural numbers
+\newcommand{\Z}{\mathbb{Z}} % integers
+\newcommand{\Q}{\mathbb{Q}} % rational numbers
+\newcommand{\R}{\mathbb{R}} % real numbers
+\newcommand{\C}{\mathbb{C}} % complex numbers
 
 % ---- OPERATORS (requires amsmath) ----
-\def\aff{\operatorname{aff}}		% (\Line is better!)
-\def\area{\operatorname{area}}
-\def\argmax{\operatornamewithlimits{arg\,max}}
-\def\argmin{\operatornamewithlimits{arg\,min}}
-\def\Aut{\operatorname{Aut}}		% Automorphism group
-\def\card{\operatorname{card}}		% cardinality, deprecated for \abs
-\def\cl{\operatorname{cl}}		% closure
-\def\co{\operatorname{co}}          % convex hull
-\def\conv{\operatorname{conv}}		% convex hull
-\def\E{\operatorname{E}}		% Expectation: $\E[X]$ (like \Pr)
-\def\EE{\operatornamewithlimits{E}}
-\def\epi{\operatorname{epi}}		% epigraph
-\def\Hom{\operatorname{Hom}}		% Homomorphism group
-\def\id{\operatorname{id}}		% identity
-\def\im{\operatorname{im}}		% image
-\def\lcm{\operatorname{lcm}}
-\def\lfs{\operatorname{lfs}}		% local feature size
-\def\poly{\operatorname{poly}}
-\def\polylog{\operatorname{polylog}}
-\def\rank{\operatorname{rank}}      % rank
-\def\rel{\operatorname{rel\,}}		% relative (interior, boundary, etc.)
-\def\sgn{\operatorname{sgn}}        % sign
-\def\vol{\operatorname{vol}}		% volume
-\def\diag{\operatorname{diag}}		% diagonal matrix
-\def\interior{\operatorname{int}}	% interior
-\def\ri{\operatorname{ri}}		    % relative interior
-\def\var{\operatorname{Var}}		% variance
-\def\cov{\operatorname{Cov}}		% covariance
-\def\dom{\operatorname{dom}}		% domain
-\def\plim{\operatornamewithlimits{plim}}% limit in probability
-\def\supp{\operatorname{supp}}		% support
-\def\ess{\operatorname{ess}}		% essential (supremum, etc)
-\def\range{\operatorname{range}}	% range
-\def\cone{\operatorname{cone}}		% cone
-\def\dist{\operatorname{dist}}		% distance
-\def\pdf{\operatorname{pdf}}		% probability density function
-\def\cdf{\operatorname{cdf}}		% cumulative distribution function
-\def\ex{\operatorname{ex}}		    % extreme points
-\def\erf{\operatorname{erf}}		% error function
-\def\erfc{\operatorname{erfc}}		% complementary error function
-\def\tr{\operatorname{tr}}          % trace
-
-\def\fp#1{^{\underline{#1}}}            % falling powers: $n\fp{d}$
-\def\rp#1{^{\overline{#1}}}             % rising powers:  $n\rp{d}$
-
-% ---- RELATORS ----
-\def\deq{\stackrel{\scriptscriptstyle\triangle}{=}}
-\def\mapsfrom{\leftarrow\!\mapstochar\,}
-\let\into\hookrightarrow		% = one-to-one
-\let\onto\twoheadrightarrow
-\def\inonto{\DOTSB\lhook\joinrel\twoheadrightarrow}
-\let\from\leftarrow
-\let\tofrom\leftrightarrow
+\newcommand\argmax{\operatornamewithlimits{arg\,max}}
+\newcommand\argmin{\operatornamewithlimits{arg\,min}}
+\newcommand\card{\operatorname{card}}	% cardinality,
+\newcommand\cl{\operatorname{cl}}		% closure
+\newcommand\co{\operatorname{co}}		% convex hull
+\newcommand\conv{\operatorname{conv}}	% convex hull
+\newcommand\E{\operatorname{E}}			% expectation
+\newcommand\epi{\operatorname{epi}}		% epigraph
+\newcommand\id{\operatorname{id}}		% identity
+\newcommand\im{\operatorname{im}}		% image
+\newcommand\rank{\operatorname{rank}}	% rank
+\newcommand\rel{\operatorname{rel\,}}	% relative (interior, boundary, etc.)
+\newcommand\sgn{\operatorname{sgn}}		% sign
+\newcommand\vol{\operatorname{vol}}		% volume
+\newcommand\diag{\operatorname{diag}}	% diagonal matrix
+\newcommand\interior{\operatorname{int}}% interior
+\newcommand\ri{\operatorname{ri}}		% relative interior
+\newcommand\var{\operatorname{Var}}		% variance
+\newcommand\cov{\operatorname{Cov}}		% covariance
+\newcommand\dom{\operatorname{dom}}		% domain
+\newcommand\plim{\operatornamewithlimits{plim}}% limit in probability
+\newcommand\supp{\operatorname{supp}}	% support
+\newcommand\ess{\operatorname{ess}}		% essential (supremum, etc)
+\newcommand\range{\operatorname{range}}	% range
+\newcommand\cone{\operatorname{cone}}	% cone
+\newcommand\dist{\operatorname{dist}}	% distance
+\newcommand\erf{\operatorname{erf}}		% error function
+\newcommand\erfc{\operatorname{erfc}}	% complementary error function
+\newcommand\tr{\operatorname{tr}}          % trace
 
 % --- Self-scaling delmiter pairs ---
+
+\newcommand{\floor}[1]{\left\lfloor #1 \right\rfloor}
+\newcommand{\ceil}[1]{\left\lceil #1 \right\rceil}
+\newcommand{\seq}[1]{\left\langle #1 \right\rangle}
+\newcommand{\abs}[1]{\left\lvert #1 \right\rvert}
+\newcommand{\norm}[1]{\left\lVert #1 \right\rVert}
 
 % first is copied from braket.sty
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -292,64 +226,6 @@
 % June 2005: Make robust
 % Sept 2006: fourier
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\def\floor#1{\left\lfloor #1 \right\rfloor}
-\def\ceil#1{\left\lceil #1 \right\rceil}
-\def\seq#1{\left\langle #1 \right\rangle}
-\def\abs#1{\left\lvert #1 \right\rvert}
-\def\norm#1{\left\lVert #1 \right\rVert}
-
-%  Math mode fbox
-\def\mfbox#1{\mathchoice{{\fbox{\ensuremath{\displaystyle #1}}}}
-			{{\fbox{\ensuremath{\textstyle #1}}}}
-			{{\fbox{\ensuremath{\scriptstyle #1}}}}
-			{{\fbox{\ensuremath{\scriptscriptstyle #1}}}}}
-
-% ---- ``ACCENTS'' ----
-%   NB: Commands equivalent to \lrarrowfill and \overlrarrow are
-%       already defined in amstex!
-\def\lrarrowfill{$\m@th\mathord\leftarrow\mkern-6mu%
-  \cleaders\hbox{$\mkern-2mu\mathord-\mkern-2mu$}\hfill
-  \mkern-6mu\mathord\rightarrow$}
-\def\overlrarrow#1{\vbox{\ialign{##\crcr
-      \lrarrowfill\crcr\noalign{\kern-\p@\nointerlineskip}
-      $\hfil\displaystyle{#1}\hfil$\crcr}}}
-
-\def\Line#1{\!\overlrarrow{\vphantom{t}\smash{\,#1\,}}\!}
-\def\Ray#1{\overrightarrow{\vphantom{t}#1\,}\!}
-\def\Seg#1{\overline{\vphantom{t}#1}}
-
-% --- TEXT STYLES ---
-\def\mathsc#1{\text{\textsc{#1}}}
-\def\mathbs#1{\text{\boldmath\ensuremath{#1}}}
-\def\EMPH#1{\textbf{\emph{\boldmath #1}}}
-
-% ----------------------------------------------------------------------
-%  \begin{bigabstract}...\end{bigabstract}
-%  For use in documents with title pages.  Use normal-sized text in
-%  the abstract!
-% ----------------------------------------------------------------------
-\newenvironment{bigabstract}%
-{\medskip\noindent\centerline{\textbf{\large\abstractname}}\begin{quotation}}%
-{\end{quotation}}
-
-% ----------------------------------------------------------------------
-%  Make captions smaller than the text, make their titles bold.
-%  Arguments:   #1 == figure name: "Figure 5"
-%               #2 == caption: "Papers by \Erdos, 1900--2000 (projected)"
-%  Less space after floats and before caption, since captions are smaller
-% ----------------------------------------------------------------------
-\@ifundefined{abovecaptionskip}{\newlength\abovecaptionskip}
-\long\def\@makecaption#1#2{
-   \vskip \abovecaptionskip
-   \setbox\@tempboxa\hbox{{\sf\footnotesize \textbf{#1.} #2}}
-   \ifdim \wd\@tempboxa >\hsize         % IF longer than one line:
-       {\sf\footnotesize \textbf{#1.} #2\par}% THEN set as ordinary paragraph.
-     \else                              %   ELSE  center.
-       \hbox to\hsize{\hfil\box\@tempboxa\hfil}
-   \fi}
-\dbltextfloatsep 18pt plus 2pt minus 4pt% was 20pt plus 2pt minus 4pt
-\textfloatsep 18pt plus 2pt minus 4pt   % was 20pt plus 2pt minus 4pt
-\abovecaptionskip 6pt			% was 10pt
 
 % ----------------------------------------------------------------------
 %  \now  -- Current time in h:mm AM/PM format
