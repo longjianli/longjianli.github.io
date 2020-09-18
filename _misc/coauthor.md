@@ -12,7 +12,7 @@ Below is a list of my coauthors (in alphabetical order by last name). Let me kno
  1. [Brendan Beare](https://www.brendanbeare.com/)
  1. Tjeerd de Vries
  1. [Leland Farmer](https://www.lelandfarmer.com/)
- 1. [Emilien Gouin-Bonenfant](https://sites.google.com/view/emilien)
+ 1. [Émilien Gouin-Bonenfant](https://sites.google.com/view/emilien)
  1. Tomoaki Imamura
  1. [Yifei Lyu](https://sites.google.com/view/yifeilyu)
  1. [Yoshiyuki Miyoshi](https://www.rieti.go.jp/users/miyoshi-yoshiyuki/index_en.html)
