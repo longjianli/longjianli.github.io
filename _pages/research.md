@@ -11,9 +11,9 @@ I am an "applied general equilibrium theorist", meaning that I am a theorist int
 
 ## Refereed research articles (reverse chronological)
 
-1. "[Is Gibrat's "Economic Inequality" Lognormal?](https://doi.org/10.1007/s00181-019-01719-z)", with *Sherzod Akhundjanov*, **Empirical Economics** [Code](https://github.com/alexisakira/Gibrat)
+1. "[Is Gibrat's "Economic Inequality" Lognormal?](https://doi.org/10.1007/s00181-019-01719-z)", with *Sherzod Akhundjanov*, **Empirical Economics** [Code](https://github.com/alexisakira/Gibrat)  
 (Power law, Empirical) The majority of data sets analyzed by [Gibrat](https://fr.wikipedia.org/wiki/Robert_Gibrat) and claimed to be lognormal are actually closer to Pareto-type distributions.
-1. "[Data-based Automatic Discretization of Nonparametric Distributions](https://doi.org/10.1007/s10614-020-10012-6)", **Computational Economics** [WP version](http://arxiv.org/abs/1805.00896) [Code](https://github.com/alexisakira/NPGQ)
+1. "[Data-based Automatic Discretization of Nonparametric Distributions](https://doi.org/10.1007/s10614-020-10012-6)", **Computational Economics** [WP version](http://arxiv.org/abs/1805.00896) [Code](https://github.com/alexisakira/NPGQ)  
 (Numerical method) Automatic discretization method of nonparametric distributions using Gaussian quadrature.
 1. "[Efficient Minimum Distance Estimation of Pareto Exponent from Top Income Shares](https://doi.org/10.1002/jae.2788)", with *Yulong Wang*, **Journal of Applied Econometrics** [WP version](https://arxiv.org/abs/1901.02471) [Code](http://qed.econ.queensu.ca/jae/datasets/toda002/)  
 (Power law, Econometrics) How to efficiently estimate Pareto exponents when only certain top income shares are observable.
