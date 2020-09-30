@@ -90,3 +90,4 @@ I am an "applied general equilibrium theorist", meaning that I am a theorist int
 1. "The Effect of Social Distancing on the Reach of an Epidemic in Social Networks", with *Gregory Gutin, Tomohiro Hirano, Sung-Ha Hwang, and Philip R. Neary* [PDF](https://arxiv.org/abs/2005.03067)
 1. "Existence and Approximate Constrained Efficiency of Epidemic Equilibrium", with *Thomas Phelan and Joel Sobel* [Slides](https://www.dropbox.com/s/wjag0hs1e9ua894/epidemic_equilibrium_slides.pdf)
 1. "Capital and Labor Income Pareto Exponents across Time and Space", with *Tjeerd de Vries*, [LIS Working Paper 794](http://www.lisdatacenter.org/wps/liswps/794.pdf) [arXiv](https://arxiv.org/abs/2006.03441)
+1. "Necessity of Hyperbolic Absolute Risk Aversion for the Concavity of Consumption Functions", [PDF](https://arxiv.org/abs/2009.13564)
