@@ -11,12 +11,12 @@ I am an "applied general equilibrium theorist", meaning that I am a theorist int
 
 ## Refereed research articles (reverse chronological)
 
-1. "[Is Gibrat's "Economic Inequality" Lognormal?](https://doi.org/10.1007/s00181-019-01719-z)", with *Sherzod Akhundjanov*, **Empirical Economics** [Code](https://github.com/alexisakira/Gibrat)  
-(Power law, Empirical) The majority of data sets analyzed by [Gibrat](https://fr.wikipedia.org/wiki/Robert_Gibrat) and claimed to be lognormal are actually closer to Pareto-type distributions.
 1. "[Data-based Automatic Discretization of Nonparametric Distributions](https://doi.org/10.1007/s10614-020-10012-6)", **Computational Economics** [WP version](http://arxiv.org/abs/1805.00896) [Code](https://github.com/alexisakira/NPGQ)  
 (Numerical method) Automatic discretization method of nonparametric distributions using Gaussian quadrature.
 1. "[Efficient Minimum Distance Estimation of Pareto Exponent from Top Income Shares](https://doi.org/10.1002/jae.2788)", with *Yulong Wang*, **Journal of Applied Econometrics** [WP version](https://arxiv.org/abs/1901.02471) [Code](http://qed.econ.queensu.ca/jae/datasets/toda002/)  
 (Power law, Econometrics) How to efficiently estimate Pareto exponents when only certain top income shares are observable.
+1. "[Is Gibrat's "Economic Inequality" Lognormal?](https://doi.org/10.1007/s00181-019-01719-z)", with *Sherzod Akhundjanov*, **Empirical Economics** 59(5):2071-2091 (2020) [Code](https://github.com/alexisakira/Gibrat)  
+(Power law, Empirical) The majority of data sets analyzed by [Gibrat](https://fr.wikipedia.org/wiki/Robert_Gibrat) and claimed to be lognormal are actually closer to Pareto-type distributions.
 1. "[On the Emergence of a Power Law in the Distribution of COVID-19 Cases](https://doi.org/10.1016/j.physd.2020.132649)", with *Brendan K. Beare*, **Physica D** 412:132649 (2020) [WP version](https://arxiv.org/abs/2004.12772) [Code](https://github.com/alexisakira/COVID-19_power_law) [BibTeX](https://drive.google.com/file/d/1pLppJbPuWKyqUeac97oge2ehCqKf3Yjf)  
 (Power law, Empirical) The size distribution of COVID-19 cases across US counties as of March 2020 obeys the power law, and the Pareto exponent is consistent with the estimated growth rate and age distributions.
 1. "[The Income Fluctuation Problem and the Evolution of Wealth](https://doi.org/10.1016/j.jet.2020.105003)", with *Qingyin Ma and John Stachurski*, **Journal of Economic Theory** 187:105003 (2020) [WP version](https://arxiv.org/abs/1905.13045) [Code](https://github.com/jstac/ifp_public) [BibTeX](https://drive.google.com/open?id=1eFVnWT2RHmcFnpJXeQBx2gWKxbGTpWoV)  
