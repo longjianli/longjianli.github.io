@@ -91,3 +91,4 @@ I am an "applied general equilibrium theorist", meaning that I am a theorist int
 1. "Existence and Approximate Constrained Efficiency of Epidemic Equilibrium", with *Thomas Phelan and Joel Sobel* [Slides](https://www.dropbox.com/s/wjag0hs1e9ua894/epidemic_equilibrium_slides.pdf)
 1. "Capital and Labor Income Pareto Exponents across Time and Space", with *Tjeerd de Vries*, [LIS Working Paper 794](http://www.lisdatacenter.org/wps/liswps/794.pdf) [arXiv](https://arxiv.org/abs/2006.03441)
 1. "Necessity of Hyperbolic Absolute Risk Aversion for the Concavity of Consumption Functions", [PDF](https://arxiv.org/abs/2009.13564)
+1. "Unbounded Dynamic Programming via the Q-Learning Transform", with *Qingyin Ma and John Stachurski*, [PDF](https://arxiv.org/abs/2012.00219)
