@@ -13,7 +13,7 @@ I am an "applied general equilibrium theorist", meaning that I am a theorist int
 
 1. "[Data-based Automatic Discretization of Nonparametric Distributions](https://doi.org/10.1007/s10614-020-10012-6)", **Computational Economics** [WP version](http://arxiv.org/abs/1805.00896) [Code](https://github.com/alexisakira/NPGQ)  
 (Numerical method) Automatic discretization method of nonparametric distributions using Gaussian quadrature.
-1. "Necessity of Hyperbolic Absolute Risk Aversion for the Concavity of Consumption Functions", **Journal of Mathematical Economics** [WP version](https://arxiv.org/abs/2009.13564)  
+1. "[Necessity of Hyperbolic Absolute Risk Aversion for the Concavity of Consumption Functions](https://doi.org/10.1016/j.jmateco.2020.102460)", **Journal of Mathematical Economics** [WP version](https://arxiv.org/abs/2009.13564)  
 (Theory) That HARA utility implies concave consumption functions is well-known, but the converse is also true.
 1. "[Efficient Minimum Distance Estimation of Pareto Exponent from Top Income Shares](https://doi.org/10.1002/jae.2788)", with *Yulong Wang*, **Journal of Applied Econometrics** [WP version](https://arxiv.org/abs/1901.02471) [Code](http://qed.econ.queensu.ca/jae/datasets/toda002/)  
 (Power law, Econometrics) How to efficiently estimate Pareto exponents when only certain top income shares are observable.
