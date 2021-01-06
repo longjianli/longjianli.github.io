@@ -11,7 +11,7 @@ I am an "applied general equilibrium theorist", meaning that I am a theorist int
 
 ## Refereed research articles (reverse chronological)
 
-1. "A Theory of the Saving Rate of the Rich", with *Qingyin Ma*, conditionally accepted at **Journal of Economic Theory** [WP version](https://arxiv.org/abs/2005.02379) [Slides](https://www.dropbox.com/s/mkbe134rezwkcav/savingrate_slides.pdf) [Code](https://github.com/alexisakira/savingrate)  
+1. "A Theory of the Saving Rate of the Rich", with *Qingyin Ma*, accepted at **Journal of Economic Theory** [WP version](https://arxiv.org/abs/2005.02379) [Slides](https://www.dropbox.com/s/mkbe134rezwkcav/savingrate_slides.pdf) [Code](https://github.com/alexisakira/savingrate)  
 (Theory, Macro) Prove asymptotic linearity of policy functions when preferences are homothetic, and show that asymptotic marginal propensities to consume can be zero, implying a large saving rate of the rich.
 1. "[Data-based Automatic Discretization of Nonparametric Distributions](https://doi.org/10.1007/s10614-020-10012-6)", **Computational Economics** [WP version](http://arxiv.org/abs/1805.00896) [Code](https://github.com/alexisakira/NPGQ)  
 (Numerical method) Automatic discretization method of nonparametric distributions using Gaussian quadrature.
