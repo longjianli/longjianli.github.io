@@ -45,7 +45,7 @@ redirect_from:
 - Medical Doctor, Japan
 
 ## Awards
-- [Government Pension Investment Fund (GPIF) Award](https://www.gpif.go.jp/en/investment/research/awards/announcement_04.html), 2021  
+- [Government Pension Investment Fund (GPIF) Finance Award](https://www.gpif.go.jp/en/investment/research/awards/announcement_04.html), 2021  
 Ministry of Health, Labor and Welfare; Ministry of Education, Culture, Sports, Science and Technology, Japan
 
 ## Media Coverage
