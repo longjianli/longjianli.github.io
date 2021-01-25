@@ -44,6 +44,10 @@ redirect_from:
 - Board Certified Anesthesiologist, Japan
 - Medical Doctor, Japan
 
+## Awards
+- [Government Pension Investment Fund (GPIF) Award](https://www.gpif.go.jp/en/investment/research/awards/announcement_04.html), 2021  
+Ministry of Health, Labor and Welfare; Ministry of Education, Culture, Sports, Science and Technology, Japan
+
 ## Media Coverage
 1. [The Reopening Dilemma: Saving Lives vs. Saving the Economy is a False Tradeoff, Economists
 Say](https://fortune.com/2020/05/04/reopening-reopen-economy-coronavirus-covid-19-lifting-lockdown-economists), Fortune, May 2020
