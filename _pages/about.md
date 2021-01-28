@@ -29,13 +29,6 @@ My current [Erdős number](http://en.wikipedia.org/wiki/Erd%C5%91s_number) is 5,
 
 | 0 | 1 | 2| 3 |
 | :---: | :---: | :---: | :---: |
-| [Paul Erdős[Erdos] | [Noga Alon](https://en.wikipedia.org/wiki/Noga_Alon) | [Gregory Gutin](https://en.wikipedia.org/wiki/Gregory_Gutin) | Alexis Akira Toda |
-
-| 0 | 1 |	2 | 3 |	4 |	5 |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| [Erdős, P.][Erdos] |	[Urbanik, K.](https://en.wikipedia.org/wiki/Kazimierz_Urbanik) |	Kamiński, A. |	[Rudnicki, R.](https://www.impan.pl/~rudnicki/) |	[Stachurski, J.](http://johnstachurski.net/) |	Toda, A. A. |
-| [Erdős, P.][Erdos] |	[Lovász, L.](http://www.cs.elte.hu/~lovasz/) |	[Harvey, N. J. A.](https://www.cs.ubc.ca/~nickhar/) |	[Murota, K.](http://www.comp.tmu.ac.jp/kzmurota/index.en.html) |	[Tanaka, K.](https://sites.google.com/site/ketanakahp/) |	Toda, A. A. |
-| [Erdős, P.][Erdos] |	[Harary, F.](https://en.wikipedia.org/wiki/Frank_Harary) |	[Iri, M.](https://simple.wikipedia.org/wiki/Masao_Iri) |	[Murota, K.](http://www.comp.tmu.ac.jp/kzmurota/index.en.html) |	[Tanaka, K.](https://sites.google.com/site/ketanakahp/) |	Toda, A. A. |
-| [Erdős, P.][Erdos] |	[Ajtai, M.](https://en.wikipedia.org/wiki/Mikl%C3%B3s_Ajtai) |	[Fagin, R.](https://en.wikipedia.org/wiki/Ronald_Fagin) |	[Geanakoplos, J. D.](https://economics.yale.edu/people/faculty/john-geanakoplos) |	[Walsh, K. J.](https://sites.google.com/site/kieranjameswalsh/) |	Toda, A. A. |
+| [Paul Erdős][Erdos] | [Noga Alon](https://en.wikipedia.org/wiki/Noga_Alon) | [Gregory Gutin](https://en.wikipedia.org/wiki/Gregory_Gutin) | Alexis Akira Toda |
 
 [Erdos]: http://en.wikipedia.org/wiki/Paul_Erd%C5%91s
