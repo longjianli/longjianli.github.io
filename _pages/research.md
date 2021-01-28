@@ -11,6 +11,8 @@ I am an "applied general equilibrium theorist", meaning that I am a theorist int
 
 ## Refereed research articles (reverse chronological)
 
+1. "The Effect of Social Distancing on the Reach of an Epidemic in Social Networks", with *Gregory Gutin, Tomohiro Hirano, Sung-Ha Hwang, and Philip R. Neary*, accepted at **Journal of Economic Interaction and Coordination** [PDF](https://arxiv.org/abs/2005.03067)  
+(Network) Simulation study of the evolution of an epidemic disease on social networks; the effectiveness of social distancing greatly depends on network structure.
 1. "[Data-based Automatic Discretization of Nonparametric Distributions](https://doi.org/10.1007/s10614-020-10012-6)", **Computational Economics** [WP version](http://arxiv.org/abs/1805.00896) [Code](https://github.com/alexisakira/NPGQ)  
 (Numerical method) Automatic discretization method of nonparametric distributions using Gaussian quadrature.
 1. "[Necessity of Hyperbolic Absolute Risk Aversion for the Concavity of Consumption Functions](https://doi.org/10.1016/j.jmateco.2020.102460)", **Journal of Mathematical Economics** [WP version](https://arxiv.org/abs/2009.13564)  
@@ -90,7 +92,6 @@ I am an "applied general equilibrium theorist", meaning that I am a theorist int
 1. "Tail Behavior of Stopped Lévy Processes with Markov Modulation", with *Brendan K. Beare and Won-Ki Seo*, revise and resubmit at **Econometric Theory** [PDF](https://arxiv.org/abs/2009.08010)
 1. "Asymptotic Marginal Propensity to Consume", with *Qingyin Ma* [PDF](https://arxiv.org/abs/2002.09108)
 1. "Susceptible-Infected-Recovered (SIR) Dynamics of COVID-19 and Economic Impact [arXiv](https://arxiv.org/abs/2003.11221) [CEPR Covid Economics](https://cepr.org/sites/default/files/news/CovidEcon1%20final.pdf) [Slides](https://www.dropbox.com/s/edv5bqnnqxejp9e/covid19_slides.pdf) [VoxEU](https://voxeu.org/article/early-draconian-social-distancing-may-be-suboptimal-fighting-covid-19-epidemic#) [Fortune](https://fortune.com/2020/05/04/reopening-reopen-economy-coronavirus-covid-19-lifting-lockdown-economists)
-1. "The Effect of Social Distancing on the Reach of an Epidemic in Social Networks", with *Gregory Gutin, Tomohiro Hirano, Sung-Ha Hwang, and Philip R. Neary*, revise and resubmit at **Journal of Economic Interaction and Coordination** [PDF](https://arxiv.org/abs/2005.03067)
 1. "Existence and Approximate Constrained Efficiency of Epidemic Equilibrium", with *Thomas Phelan and Joel Sobel* [Slides](https://www.dropbox.com/s/wjag0hs1e9ua894/epidemic_equilibrium_slides.pdf)
 1. "Capital and Labor Income Pareto Exponents across Time and Space", with *Tjeerd de Vries*, [LIS Working Paper 794](http://www.lisdatacenter.org/wps/liswps/794.pdf) [arXiv](https://arxiv.org/abs/2006.03441)
 1. "Unbounded Dynamic Programming via the Q-Learning Transform", with *Qingyin Ma and John Stachurski*, [PDF](https://arxiv.org/abs/2012.00219)
