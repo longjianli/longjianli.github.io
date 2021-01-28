@@ -11,7 +11,7 @@ I am an "applied general equilibrium theorist", meaning that I am a theorist int
 
 ## Refereed research articles (reverse chronological)
 
-1. "The Effect of Social Distancing on the Reach of an Epidemic in Social Networks", with *Gregory Gutin, Tomohiro Hirano, Sung-Ha Hwang, and Philip R. Neary*, accepted at **Journal of Economic Interaction and Coordination** [WP version](https://arxiv.org/abs/2005.03067)  
+1. "The Effect of Social Distancing on the Reach of an Epidemic in Social Networks", with *Gregory Gutin, Tomohiro Hirano, Sung-Ha Hwang, and Philip R. Neary*, accepted at **Journal of Economic Interaction and Coordination** [WP version](https://arxiv.org/abs/2005.03067) [Code](https://github.com/alexisakira/COVID-19_network)  
 (Network) Simulation study of the evolution of an epidemic disease on social networks; the effectiveness of social distancing greatly depends on network structure.
 1. "[Data-based Automatic Discretization of Nonparametric Distributions](https://doi.org/10.1007/s10614-020-10012-6)", **Computational Economics** [WP version](http://arxiv.org/abs/1805.00896) [Code](https://github.com/alexisakira/NPGQ)  
 (Numerical method) Automatic discretization method of nonparametric distributions using Gaussian quadrature.
