@@ -27,6 +27,10 @@ I also like programming, chess, and tennis, although I am not particularly good 
 ## My Erdős number
 My current [Erdős number](http://en.wikipedia.org/wiki/Erd%C5%91s_number) is 5, based on the following connections (you can use [this tool](https://mathscinet.ams.org/mathscinet/freeTools.html) to compute your Erdős number or the collaboration distance between anybody):
 
+| 0 | 1 | 2| 3 |
+| :---: | :---: | :---: | :---: |
+| [Paul Erdős[Erdos] | [Noga Alon](https://en.wikipedia.org/wiki/Noga_Alon) | [Gregory Gutin](https://en.wikipedia.org/wiki/Gregory_Gutin) | Alexis Akira Toda |
+
 | 0 | 1 |	2 | 3 |	4 |	5 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | [Erdős, P.][Erdos] |	[Urbanik, K.](https://en.wikipedia.org/wiki/Kazimierz_Urbanik) |	Kamiński, A. |	[Rudnicki, R.](https://www.impan.pl/~rudnicki/) |	[Stachurski, J.](http://johnstachurski.net/) |	Toda, A. A. |
