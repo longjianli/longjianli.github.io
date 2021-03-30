@@ -9,7 +9,7 @@ author_profile: true
 
 I am an "applied general equilibrium theorist", meaning that I am a theorist interested in general equilibrium theory and its applications (typically in finance and macroeconomics). In addition to papers in mathematical economics and finance, I have written many papers on [power law](https://en.wikipedia.org/wiki/Power_law), which naturally emerges in dynamic general equilibrium models with heterogeneous agents. I have also written several papers on numerical methods (discretization of probability distributions and stochastic processes), which are useful for numerically solving models (see the [discretization page](/discretization/)). Below is the complete publication list.
 
-## Refereed research articles (reverse chronological)
+## Refereed research articles
 
 1. "Tail Behavior of Stopped Lévy Processes with Markov Modulation", with *Brendan K. Beare and Won-Ki Seo*, accepted at **Econometric Theory** [WP version](https://arxiv.org/abs/2009.08010)  
 (Power law, Theory) Characterize tail behavior of Markov-modulated Lévy processes that are stopped at state-dependent Poisson rates; application to wealth distribution.
@@ -78,12 +78,13 @@ I am an "applied general equilibrium theorist", meaning that I am a theorist int
 1. "[Existence of a Statistical Equilibrium for an Economy with Endogenous Offer Sets](http://doi.org/10.1007/s00199-009-0493-6)", **Economic Theory** 45(3):379-415 (2010) [BibTeX](https://drive.google.com/open?id=1BafXt-Q_De4LBFCZmqYHedlkiQjZndlU)  
 (Theory) Generalizes [Foley's (1994)](http://dx.doi.org/10.1006/jeth.1994.1018) statistical equilibrium model when offer sets are endogenous. My master thesis at U of Tokyo. Further generalized in [Toda (2015)](http://doi.org/10.1007/s00199-014-0849-4).
 
-## Papers in conference proceedings
+## Conference proceedings
 1. "[Error Estimate and Convergence Analysis of Moment-Preserving Discrete Approximations of Continuous Distributions](http://dx.doi.org/10.1063/1.4903706)", with *Ken'ichiro Tanaka*, in Robert K. Niven, Brendon Brewer, David Paull, Kamran Shafi, Barrie Stokes eds. **Bayesian Inference and Maximum Entropy Methods in Science and Engineering, AIP Conference Proceedings** 1636:30-36 (2014)
 1. "[Axiomatization of Maximum Entropy without the Bayes Rule](http://dx.doi.org/10.1063/1.3703614)", in Philip Goyal, Adom Giffin, Kevin H. Knuth, Edward Vrscay eds. **Bayesian Inference and Maximum Entropy Methods in Science and Engineering, AIP Conference Proceedings** 1443:7-13 (2012)
 
 ## Other publications
 1. "[Corrigendum to "An Impossibility Theorem for Wealth in Heterogeneous-agent Models with Limited Heterogeneity \[Journal of Economics Theory 182 (2019) 1-24\]](https://doi.org/10.1016/j.jet.2020.105066)", with *John Stachurski*, **Journal of Economic Theory** 188:105066 (2020)
+1. "Susceptible-Infected-Recovered (SIR) Dynamics of COVID-19 and Economic Impact [arXiv](https://arxiv.org/abs/2003.11221) [CEPR Covid Economics](https://cepr.org/sites/default/files/news/CovidEcon1%20final.pdf) [Slides](https://www.dropbox.com/s/edv5bqnnqxejp9e/covid19_slides.pdf) [VoxEU](https://voxeu.org/article/early-draconian-social-distancing-may-be-suboptimal-fighting-covid-19-epidemic#) [Fortune](https://fortune.com/2020/05/04/reopening-reopen-economy-coronavirus-covid-19-lifting-lockdown-economists)
 
 ## Working papers
 1. "Collateralized Loans, Pooling, and Maximum Leverage", revise and resubmit at **Theoretical Economics** [PDF](http://ssrn.com/abstract=2336582)
@@ -92,7 +93,7 @@ I am an "applied general equilibrium theorist", meaning that I am a theorist int
 1. "Geometrically Stopped Markovian Random Growth Processes and Pareto Tails", with *Brendan K. Beare*, revise and resubmit at **Econometrica** [PDF](https://arxiv.org/abs/1712.01431) [Slides](https://www.dropbox.com/s/8q03zjtn1jak2ju/randomgrowth_slides8_short.pdf)
 1. "Pareto Extrapolation: An Analytical Framework for Studying Tail Inequality", with *Émilien Gouin-Bonenfant* [PDF](https://ssrn.com/abstract=3260899) [Code](https://github.com/alexisakira/Pareto-extrapolation)
 1. "Asymptotic Linearity of Consumption Functions and Computational Efficiency", with *Qingyin Ma* [PDF](https://arxiv.org/abs/2002.09108)
-1. "Susceptible-Infected-Recovered (SIR) Dynamics of COVID-19 and Economic Impact [arXiv](https://arxiv.org/abs/2003.11221) [CEPR Covid Economics](https://cepr.org/sites/default/files/news/CovidEcon1%20final.pdf) [Slides](https://www.dropbox.com/s/edv5bqnnqxejp9e/covid19_slides.pdf) [VoxEU](https://voxeu.org/article/early-draconian-social-distancing-may-be-suboptimal-fighting-covid-19-epidemic#) [Fortune](https://fortune.com/2020/05/04/reopening-reopen-economy-coronavirus-covid-19-lifting-lockdown-economists)
-1. "Existence and Approximate Constrained Efficiency of Epidemic Equilibrium", with *Thomas Phelan and Joel Sobel* [Slides](https://www.dropbox.com/s/wjag0hs1e9ua894/epidemic_equilibrium_slides.pdf)
 1. "Capital and Labor Income Pareto Exponents across Time and Space", with *Tjeerd de Vries*, [LIS Working Paper 794](http://www.lisdatacenter.org/wps/liswps/794.pdf) [arXiv](https://arxiv.org/abs/2006.03441)
 1. "Unbounded Dynamic Programming via the Q-Transform", with *Qingyin Ma and John Stachurski*, [PDF](https://arxiv.org/abs/2012.00219)
+1. "Optimal Epidemic Control in Equilibrium with Imperfect Reporting", with *Thomas Phelan* [Slides](https://www.dropbox.com/s/1opty2t71916sbl/epidemic_equilibrium_06_slides.pdf)
+
