@@ -84,7 +84,7 @@ I am an "applied general equilibrium theorist", meaning that I am a theorist int
 
 ## Other publications
 1. "[Corrigendum to "An Impossibility Theorem for Wealth in Heterogeneous-agent Models with Limited Heterogeneity \[Journal of Economics Theory 182 (2019) 1-24\]](https://doi.org/10.1016/j.jet.2020.105066)", with *John Stachurski*, **Journal of Economic Theory** 188:105066 (2020)
-1. "Susceptible-Infected-Recovered (SIR) Dynamics of COVID-19 and Economic Impact [arXiv](https://arxiv.org/abs/2003.11221) [CEPR Covid Economics](https://cepr.org/sites/default/files/news/CovidEcon1%20final.pdf) [Slides](https://www.dropbox.com/s/edv5bqnnqxejp9e/covid19_slides.pdf) [VoxEU](https://voxeu.org/article/early-draconian-social-distancing-may-be-suboptimal-fighting-covid-19-epidemic#) [Fortune](https://fortune.com/2020/05/04/reopening-reopen-economy-coronavirus-covid-19-lifting-lockdown-economists)
+1. "[Susceptible-Infected-Recovered (SIR) Dynamics of COVID-19 and Economic Impact](https://cepr.org/sites/default/files/news/CovidEcon1%20final.pdf)", **Covid Economics, Vetted and Real-Time Papers** 1 (2020) [arXiv](https://arxiv.org/abs/2003.11221) [Slides](https://www.dropbox.com/s/edv5bqnnqxejp9e/covid19_slides.pdf) [VoxEU](https://voxeu.org/article/early-draconian-social-distancing-may-be-suboptimal-fighting-covid-19-epidemic#) [Fortune](https://fortune.com/2020/05/04/reopening-reopen-economy-coronavirus-covid-19-lifting-lockdown-economists)
 
 ## Working papers
 1. "Collateralized Loans, Pooling, and Maximum Leverage", revise and resubmit at **Theoretical Economics** [PDF](http://ssrn.com/abstract=2336582)
