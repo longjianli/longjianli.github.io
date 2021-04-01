@@ -96,5 +96,5 @@ I am an "applied general equilibrium theorist", meaning that I am a theorist int
 1. "Capital and Labor Income Pareto Exponents across Time and Space", with *Tjeerd de Vries*, [LIS Working Paper 794](http://www.lisdatacenter.org/wps/liswps/794.pdf) [arXiv](https://arxiv.org/abs/2006.03441)
 1. "Unbounded Dynamic Programming via the Q-Transform", with *Qingyin Ma and John Stachurski*, [PDF](https://arxiv.org/abs/2012.00219)
 1. "Contraction Mapping Theorem for the Cartesian Product of Complete Metric Spaces", [PDF](https://arxiv.org/abs/2103.14173)
-1. "Optimal Epidemic Control in Equilibrium with Imperfect Reporting", with *Thomas Phelan* [Slides](https://www.dropbox.com/s/1opty2t71916sbl/epidemic_equilibrium_06_slides.pdf)
+1. "Optimal Epidemic Control in Equilibrium with Imperfect Testing and Enforcement", with *Thomas Phelan* [Slides](https://www.dropbox.com/s/1opty2t71916sbl/epidemic_equilibrium_06_slides.pdf)
 
