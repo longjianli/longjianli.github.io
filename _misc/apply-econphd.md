@@ -32,6 +32,10 @@ It is not necessary, but better, if you have relevant research experience. This 
 
 ## Other considerations
 - Letters need to be (mostly) written by economics professors (to be credible). This means that you need to take some economics courses. If you are not an economics major, one option is to go to a master program first.
-- GRE is used only for screening. A near-perfect score in GRE quantitative is necessary but otherwise irrelevant.
+- GRE is used only for screening. A near-perfect score in GRE quantitative is necessary but otherwise irrelevant once you pass screening.
 - Statement of Purpose and Diversity Statement are mostly irrelevant. If you have time writing these, study more mathematics instead.
-- Programming skill becomes important once you get into grad school. Learn programming languages.
+- Programming skill becomes important once you get into grad school. Learn programming languages at an early stage.
+
+## Advice to UCSD undergraduate students
+- Take Math 140ABC (real analysis, the more rigorous one). That's the bare minimum.
+- Take Econ 113 (mathematical economics) or other advanced electives. Just sitting in large generic classes doesn't help you get into Ph.D.
