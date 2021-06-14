@@ -45,6 +45,8 @@ redirect_from:
 - Medical Doctor, Japan
 
 ## Awards
+- [Junko Maru Prize](https://nfa-net.jp/news/2346/), 2021  
+Nippon Finance Association, Japan
 - [Government Pension Investment Fund (GPIF) Finance Award](https://www.gpif.go.jp/en/investment/research/awards/announcement_04.html), 2021  
 Ministry of Health, Labor and Welfare; Ministry of Education, Culture, Sports, Science and Technology, Japan
 
