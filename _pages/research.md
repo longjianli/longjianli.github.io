@@ -90,7 +90,7 @@ I am an "applied general equilibrium theorist", meaning that I am a theorist int
 1. "Collateralized Loans, Pooling, and Maximum Leverage", revise and resubmit at **Theoretical Economics** [PDF](http://ssrn.com/abstract=2336582)
 1. "Zipf's Law: A Microfoundation" [PDF](http://ssrn.com/abstract=2808237)
 1. "Bad News and Robust Comparative Statics for the Elasticity of Intertemporal Substitution", with *Lawrence Schmidt*, revise and resubmit at **Theoretical Economics** [PDF](http://ssrn.com/abstract=2544688)
-1. "Geometrically Stopped Markovian Random Growth Processes and Pareto Tails", with *Brendan K. Beare*, revise and resubmit at **Econometrica** [PDF](https://arxiv.org/abs/1712.01431) [Slides](https://www.dropbox.com/s/8q03zjtn1jak2ju/randomgrowth_slides8_short.pdf)
+1. "Determination of Pareto Exponents in Economic Models Driven by Markov Multiplicative Processes", with *Brendan K. Beare*, revise and resubmit at **Econometrica** [PDF](https://arxiv.org/abs/1712.01431) [Slides](https://www.dropbox.com/s/8q03zjtn1jak2ju/randomgrowth_slides8_short.pdf)
 1. "Pareto Extrapolation: An Analytical Framework for Studying Tail Inequality", with *Émilien Gouin-Bonenfant* [PDF](https://ssrn.com/abstract=3260899) [Code](https://github.com/alexisakira/Pareto-extrapolation)
 1. "Asymptotic Linearity of Consumption Functions and Computational Efficiency", with *Qingyin Ma*, revise and resubmit at **Journal of Mathematical Economics** [PDF](https://arxiv.org/abs/2002.09108)
 1. "Capital and Labor Income Pareto Exponents across Time and Space", with *Tjeerd de Vries*, revise and resubmit at **Review of Income and Wealth** [LIS Working Paper 794](http://www.lisdatacenter.org/wps/liswps/794.pdf) [arXiv](https://arxiv.org/abs/2006.03441)
