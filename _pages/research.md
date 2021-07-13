@@ -11,7 +11,7 @@ I am an "applied general equilibrium theorist", meaning that I am a theorist int
 
 ## Refereed research articles
 
-1. "Tail Behavior of Stopped Lévy Processes with Markov Modulation", with *Brendan K. Beare and Won-Ki Seo*, accepted at **Econometric Theory** [WP version](https://arxiv.org/abs/2009.08010)  
+1. "[Tail Behavior of Stopped Lévy Processes with Markov Modulation](https://doi.org/10.1017/S0266466621000268)", with *Brendan K. Beare and Won-Ki Seo*, **Econometric Theory** [WP version](https://arxiv.org/abs/2009.08010)  
 (Power law, Theory) Characterize tail behavior of Markov-modulated Lévy processes that are stopped at state-dependent Poisson rates; application to wealth distribution.
 1. "[The Effect of Social Distancing on the Reach of an Epidemic in Social Networks](https://doi.org/10.1007/s11403-021-00322-9)", with *Gregory Gutin, Tomohiro Hirano, Sung-Ha Hwang, and Philip R. Neary*, **Journal of Economic Interaction and Coordination** 16:629-647 (2021) [WP version](https://arxiv.org/abs/2005.03067) [Code](https://github.com/alexisakira/COVID-19_network) [BibTeX](https://drive.google.com/file/d/1yZeNxUfH2okxIUgjk_-TO2_WN5FZakMf)  
 (Network) Simulation study of the evolution of an epidemic disease on social networks; the effectiveness of social distancing greatly depends on network structure.
