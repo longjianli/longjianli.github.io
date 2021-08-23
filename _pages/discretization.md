@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-I have written several papers (Tanaka & Toda, [2013](http://doi.org/10.1016/j.econlet.2012.12.020), [2015](http://doi.org/10.1137/140971269); Farmer & Toda, [2017](https://doi.org/10.3982/QE737); Toda, [forthcoming](https://doi.org/10.1007/s10614-020-10012-6)) on discretizing probability distributions and stochastic processes.
+I have written several papers (Tanaka & Toda, [2013](http://doi.org/10.1016/j.econlet.2012.12.020), [2015](http://doi.org/10.1137/140971269); Farmer & Toda, [2017](https://doi.org/10.3982/QE737); Toda, [2021](https://doi.org/10.1007/s10614-020-10012-6)) on discretizing probability distributions and stochastic processes.
 
 I have compiled the discretization codes in a [Matlab package](https://github.com/alexisakira/discretization) that allows the user to:
 - discretize a VAR(1) with Gaussian shocks,
