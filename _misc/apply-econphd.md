@@ -7,7 +7,7 @@ permalink: /misc/apply-econphd
 
 Everything below is my opinion and does not necessarily reflect the view of the UCSD economics department. For some resources provided by UCSD economics, please see [here](https://economics.ucsd.edu/undergraduate-program/how-to-prepare-for-a-phd-in-econ/index.html).
 
-An economics professor is one of the best jobs. You have plenty of free time to do fun things (research), but unlike other scientific fields, economics professors get paid well. (If you like money, then being a business school professor or working in the industry may be better, but then you might have to spend a lot of time doing unpleasant things.)
+An economics professor is one of the best jobs. You have plenty of free time to do fun things (research), but unlike other scientific fields, economics professors get paid reasonably well. (If you like money, then being a business school professor or working in the industry may be better, but then you might have to spend a lot of time doing unpleasant things.)
 
 To become an economics professor, you need an economics Ph.D. There are already plenty of advices on applying to economics Ph.D. programs out there (see [here](https://www.aeaweb.org/resources/students/grad-prep) or [here](https://econ.ucsb.edu/~startz/A%20Guide%20for%20UCSB%20Undergraduates%20Considering%20a%20PhD%20in%20Economics.pdf)), so I will be brief. In my opinion, the most important things are
 1. Letter of recommendation,
