@@ -5,7 +5,7 @@ collection: misc
 permalink: /misc/apply-econphd
 ---
 
-Everything below is my opinion and does not reflect the view of the UCSD economics department.
+Everything below is my opinion and does not necessarily reflect the view of the UCSD economics department. For some resources provided by UCSD economics, please see [here](https://economics.ucsd.edu/undergraduate-program/how-to-prepare-for-a-phd-in-econ/index.html).
 
 An economics professor is one of the best jobs. You have plenty of free time to do fun things (research), but unlike other scientific fields, economics professors get paid well. (If you like money, then being a business school professor or working in the industry may be better, but then you might have to spend a lot of time doing unpleasant things.)
 
