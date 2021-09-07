@@ -11,6 +11,8 @@ I am an "applied general equilibrium theorist", meaning that I am a theorist int
 
 ## Refereed research articles
 
+1. "Asymptotic Linearity of Consumption Functions and Computational Efficiency", with *Qingyin Ma*, accepted at **Journal of Mathematical Economics** [PDF](https://arxiv.org/abs/2002.09108)  
+(Theory, Macro, Numerical method) Prove asymptotic linearity of policy functions when marginal utility is regularly varying; follow up of [Ma & Toda (2021)](https://doi.org/10.1016/j.jet.2021.105193)
 1. "Perov's Contraction Principle and Dynamic Programming with Stochastic Discounting", accepted at **Operations Research Letters** [WP version](https://arxiv.org/abs/2103.14173)  
 (Mathematics) Show the usefulness of Perov's contraction principle (which is a generalization of Banach's contraction principle) for solving certain dynamic programming problems.
 1. "[Tail Behavior of Stopped Lévy Processes with Markov Modulation](https://doi.org/10.1017/S0266466621000268)", with *Brendan K. Beare and Won-Ki Seo*, **Econometric Theory** [WP version](https://arxiv.org/abs/2009.08010)  
@@ -94,7 +96,6 @@ I am an "applied general equilibrium theorist", meaning that I am a theorist int
 1. "Bad News and Robust Comparative Statics for the Elasticity of Intertemporal Substitution", with *Lawrence Schmidt*, revise and resubmit at **Theoretical Economics** [PDF](http://ssrn.com/abstract=2544688)
 1. "Determination of Pareto Exponents in Economic Models Driven by Markov Multiplicative Processes", with *Brendan K. Beare*, revise and resubmit at **Econometrica** [PDF](https://arxiv.org/abs/1712.01431) [Slides](https://www.dropbox.com/s/8q03zjtn1jak2ju/randomgrowth_slides8_short.pdf)
 1. "Pareto Extrapolation: An Analytical Framework for Studying Tail Inequality", with *Émilien Gouin-Bonenfant* [PDF](https://ssrn.com/abstract=3260899) [Code](https://github.com/alexisakira/Pareto-extrapolation)
-1. "Asymptotic Linearity of Consumption Functions and Computational Efficiency", with *Qingyin Ma*, revise and resubmit at **Journal of Mathematical Economics** [PDF](https://arxiv.org/abs/2002.09108)
 1. "Capital and Labor Income Pareto Exponents across Time and Space", with *Tjeerd de Vries*, revise and resubmit at **Review of Income and Wealth** [LIS Working Paper 794](http://www.lisdatacenter.org/wps/liswps/794.pdf) [arXiv](https://arxiv.org/abs/2006.03441)
 1. "Unbounded Dynamic Programming via the Q-Transform", with *Qingyin Ma and John Stachurski* [PDF](https://arxiv.org/abs/2012.00219)
 1. "Optimal Epidemic Control in Equilibrium with Imperfect Testing and Enforcement", with *Thomas Phelan* [PDF](https://arxiv.org/abs/2104.04455)
