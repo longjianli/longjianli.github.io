@@ -11,7 +11,7 @@ I am an "applied general equilibrium theorist", meaning that I am a theorist int
 
 ## Refereed research articles
 
-1. "Asymptotic Linearity of Consumption Functions and Computational Efficiency", with *Qingyin Ma*, accepted at **Journal of Mathematical Economics** [PDF](https://arxiv.org/abs/2002.09108)  
+1. "Asymptotic Linearity of Consumption Functions and Computational Efficiency", with *Qingyin Ma*, accepted at **Journal of Mathematical Economics** [WP version](https://arxiv.org/abs/2002.09108)  
 (Theory, Macro, Numerical method) Prove asymptotic linearity of policy functions when marginal utility is regularly varying; follow up of [Ma & Toda (2021)](https://doi.org/10.1016/j.jet.2021.105193)
 1. "Perov's Contraction Principle and Dynamic Programming with Stochastic Discounting", accepted at **Operations Research Letters** [WP version](https://arxiv.org/abs/2103.14173)  
 (Mathematics) Show the usefulness of Perov's contraction principle (which is a generalization of Banach's contraction principle) for solving certain dynamic programming problems.
