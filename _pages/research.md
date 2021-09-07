@@ -21,6 +21,8 @@ I am an "applied general equilibrium theorist", meaning that I am a theorist int
 (Numerical method) Automatic discretization method of nonparametric distributions using Gaussian quadrature.
 1. "[Necessity of Hyperbolic Absolute Risk Aversion for the Concavity of Consumption Functions](https://doi.org/10.1016/j.jmateco.2020.102460)", **Journal of Mathematical Economics** 94:102460 (2021) [WP version](https://arxiv.org/abs/2009.13564) [BibTeX](https://drive.google.com/file/d/1rV_7vTOxodBNzQX9wA8ri24l1LJl3squ)  
 (Theory) That HARA utility implies concave consumption functions is well-known, but the converse is also true.
+1. "Perov's Contraction Principle and Dynamic Programming with Stochastic Discounting", accepted at **Operations Research Letters** [WP version](https://arxiv.org/abs/2103.14173)  
+(Mathematics) Show the usefulness of Perov's contraction principle (which is a generalization of Banach's contraction principle) for solving certain dynamic programming problems.
 1. "[Efficient Minimum Distance Estimation of Pareto Exponent from Top Income Shares](https://doi.org/10.1002/jae.2788)", with *Yulong Wang*, **Journal of Applied Econometrics** 36(2):228-243 (2021) [WP version](https://arxiv.org/abs/1901.02471) [Code](http://qed.econ.queensu.ca/jae/datasets/toda002/) [BibTeX](https://drive.google.com/file/d/1mwX31PE3FRSFMLRgv-ngSap2LLWKTjs7)  
 (Power law, Econometrics) How to efficiently estimate Pareto exponents when only certain top income shares are observable.
 1. "[Is Gibrat's "Economic Inequality" Lognormal?](https://doi.org/10.1007/s00181-019-01719-z)", with *Sherzod Akhundjanov*, **Empirical Economics** 59(5):2071-2091 (2020) [Code](https://github.com/alexisakira/Gibrat) [BibTeX](https://drive.google.com/file/d/1hUa4hllJ2rB9qi0LU6ZCZywFsILD55mJ)  
@@ -95,7 +97,6 @@ I am an "applied general equilibrium theorist", meaning that I am a theorist int
 1. "Asymptotic Linearity of Consumption Functions and Computational Efficiency", with *Qingyin Ma*, revise and resubmit at **Journal of Mathematical Economics** [PDF](https://arxiv.org/abs/2002.09108)
 1. "Capital and Labor Income Pareto Exponents across Time and Space", with *Tjeerd de Vries*, revise and resubmit at **Review of Income and Wealth** [LIS Working Paper 794](http://www.lisdatacenter.org/wps/liswps/794.pdf) [arXiv](https://arxiv.org/abs/2006.03441)
 1. "Unbounded Dynamic Programming via the Q-Transform", with *Qingyin Ma and John Stachurski* [PDF](https://arxiv.org/abs/2012.00219)
-1. "Contraction Mapping Theorem for the Cartesian Product of Complete Metric Spaces", revise and resubmit at **Operations Research Letters** [PDF](https://arxiv.org/abs/2103.14173)
 1. "Optimal Epidemic Control in Equilibrium with Imperfect Testing and Enforcement", with *Thomas Phelan* [PDF](https://arxiv.org/abs/2104.04455)
 1. "Tax Progressivity and Wealth Inequality: Evidence from Forbes 400", with *Ji Hyung Lee, Yuya Sasaki, and Yulong Wang* [PDF](https://arxiv.org/abs/2105.10007)
 
