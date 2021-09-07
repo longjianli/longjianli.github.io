@@ -11,6 +11,8 @@ I am an "applied general equilibrium theorist", meaning that I am a theorist int
 
 ## Refereed research articles
 
+1. "Perov's Contraction Principle and Dynamic Programming with Stochastic Discounting", accepted at **Operations Research Letters** [WP version](https://arxiv.org/abs/2103.14173)  
+(Mathematics) Show the usefulness of Perov's contraction principle (which is a generalization of Banach's contraction principle) for solving certain dynamic programming problems.
 1. "[Tail Behavior of Stopped Lévy Processes with Markov Modulation](https://doi.org/10.1017/S0266466621000268)", with *Brendan K. Beare and Won-Ki Seo*, **Econometric Theory** [WP version](https://arxiv.org/abs/2009.08010)  
 (Power law, Theory) Characterize tail behavior of Markov-modulated Lévy processes that are stopped at state-dependent Poisson rates; application to wealth distribution.
 1. "[The Effect of Social Distancing on the Reach of an Epidemic in Social Networks](https://doi.org/10.1007/s11403-021-00322-9)", with *Gregory Gutin, Tomohiro Hirano, Sung-Ha Hwang, and Philip R. Neary*, **Journal of Economic Interaction and Coordination** 16:629-647 (2021) [WP version](https://arxiv.org/abs/2005.03067) [Code](https://github.com/alexisakira/COVID-19_network) [BibTeX](https://drive.google.com/file/d/1yZeNxUfH2okxIUgjk_-TO2_WN5FZakMf)  
@@ -21,8 +23,6 @@ I am an "applied general equilibrium theorist", meaning that I am a theorist int
 (Numerical method) Automatic discretization method of nonparametric distributions using Gaussian quadrature.
 1. "[Necessity of Hyperbolic Absolute Risk Aversion for the Concavity of Consumption Functions](https://doi.org/10.1016/j.jmateco.2020.102460)", **Journal of Mathematical Economics** 94:102460 (2021) [WP version](https://arxiv.org/abs/2009.13564) [BibTeX](https://drive.google.com/file/d/1rV_7vTOxodBNzQX9wA8ri24l1LJl3squ)  
 (Theory) That HARA utility implies concave consumption functions is well-known, but the converse is also true.
-1. "Perov's Contraction Principle and Dynamic Programming with Stochastic Discounting", accepted at **Operations Research Letters** [WP version](https://arxiv.org/abs/2103.14173)  
-(Mathematics) Show the usefulness of Perov's contraction principle (which is a generalization of Banach's contraction principle) for solving certain dynamic programming problems.
 1. "[Efficient Minimum Distance Estimation of Pareto Exponent from Top Income Shares](https://doi.org/10.1002/jae.2788)", with *Yulong Wang*, **Journal of Applied Econometrics** 36(2):228-243 (2021) [WP version](https://arxiv.org/abs/1901.02471) [Code](http://qed.econ.queensu.ca/jae/datasets/toda002/) [BibTeX](https://drive.google.com/file/d/1mwX31PE3FRSFMLRgv-ngSap2LLWKTjs7)  
 (Power law, Econometrics) How to efficiently estimate Pareto exponents when only certain top income shares are observable.
 1. "[Is Gibrat's "Economic Inequality" Lognormal?](https://doi.org/10.1007/s00181-019-01719-z)", with *Sherzod Akhundjanov*, **Empirical Economics** 59(5):2071-2091 (2020) [Code](https://github.com/alexisakira/Gibrat) [BibTeX](https://drive.google.com/file/d/1hUa4hllJ2rB9qi0LU6ZCZywFsILD55mJ)  
