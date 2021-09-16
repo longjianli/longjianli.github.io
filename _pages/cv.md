@@ -41,8 +41,8 @@ redirect_from:
 - B.A., [Faculty of Medicine, University of Tokyo](http://www.m.u-tokyo.ac.jp/english/), 2004
 
 ## Qualifications
-- Board Certified Anesthesiologist, Japan
-- Medical Doctor, Japan
+- Board-certified Anesthesiologist, Japan, 2008
+- Medical Doctor, Japan, 2004
 
 ## Awards
 - [Junko Maru Prize](https://nfa-net.jp/news/2346/), 2021  
