@@ -9,4 +9,4 @@ date: 2021-09-01
 
 This course covers some some institutional details on the financial markets, bond pricing (including duration analysis), optimal portfolio problem, [mutual fund theorem](https://en.wikipedia.org/wiki/Mutual_fund_separation_theorem), [Capital Asset Pricing Model](https://en.wikipedia.org/wiki/Capital_asset_pricing_model), and [option pricing](https://en.wikipedia.org/wiki/Valuation_of_options) (including bounds on option prices, suboptimality of early exercise of American call options, put-call parity, and binomial option pricing).
 
-## [Syllabus](https://www.dropbox.com/s/bp1imwt9zcef5ee/173A_syllabus.pdf)
+## [Syllabus](https://www.dropbox.com/s/m47eq1bl7189jlg/2021F_173A_syllabus.pdf)
