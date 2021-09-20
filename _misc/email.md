@@ -17,7 +17,7 @@ So please help make my life easier by following some simple tips.
 
 According to my experience, about 90% of emails sent from undergraduate students are unnecessary. The exceptions (10%) include, for example,
 - "I would like to apply for a grad school and can you write me a letter of recommendation?" (I am happy to deal with that, but please read [my letter of recommendation policy](https://alexisakira.github.io/misc/letter-of-recommendation) first.)
-- "I missed (am going to miss) an exam for a university-approved reason. What should I do?" (Please submit evidence.)
+- "I missed (am going to miss) an exam for such-and-such (university-approved) reason. What should I do?" (Please submit evidence that support your claim if you missed a midterm. If you miss a final, you fail the course [per university policy](https://senate.ucsd.edu/operating-procedures/educational-policies/courses/epc-policies-on-courses/policy-exams-including-midterms-final-exams-and-religious-accommodations-for-exams/).)
 
 Examples of unnecessary (90%) emails include, for example,
 - "When is the exam?" (Please read the syllabus.)
