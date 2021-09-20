@@ -15,12 +15,12 @@ So please help make my life easier by following some simple tips.
 1. Important information is often included in the syllabus. Do not send me emails before thoroughly reading the syllabus.
 1. For questions related to course materials, please ask questions in person during classes or office hours.
 
-According to my experience, about 90% of emails sent from undergraduate students are unnecessary. The exceptions (10%) include, for example,
-- "I would like to apply for a grad school and can you write me a letter of recommendation?" (I am happy to deal with that, but please read [my letter of recommendation policy](https://alexisakira.github.io/misc/letter-of-recommendation) first.)
-- "I missed (am going to miss) an exam for such-and-such (university-approved) reason. What should I do?" (Please submit evidence that support your claim if you missed a midterm. If you miss a final, you fail the course [per university policy](https://senate.ucsd.edu/operating-procedures/educational-policies/courses/epc-policies-on-courses/policy-exams-including-midterms-final-exams-and-religious-accommodations-for-exams/).)
-
-Examples of unnecessary (90%) emails include, for example,
+According to my experience, the majority emails sent from undergraduate students are unnecessary. Examples are
 - "When is the exam?" (Please read the syllabus.)
 - "Will the exam score be curved?" (Please read the syllabus.)
 - "I don't understand the derivation of such-and-such" (I am happy to explain in person.)
 - "Do you think such-and-such is a good investment?" (I have no idea and that's not my problem.)
+
+Legitimate emails include, for example,
+- "I would like to apply for a grad school and can you write me a letter of recommendation?" (I am happy to deal with that, but please read [my letter of recommendation policy](https://alexisakira.github.io/misc/letter-of-recommendation) first.)
+- "I missed (am going to miss) an exam for such-and-such (university-approved) reason. What should I do?" (Please submit evidence that support your claim if you missed a midterm. If you miss a final, you fail the course [per university policy](https://senate.ucsd.edu/operating-procedures/educational-policies/courses/epc-policies-on-courses/policy-exams-including-midterms-final-exams-and-religious-accommodations-for-exams/).)
