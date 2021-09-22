@@ -8,7 +8,7 @@ permalink: /misc/email
 We are all busy. As for me, I teach multiple classes, I do research, I take care of my family, and I would like to have some time for leisure such as playing tennis in addition to eating and sleeping. Let's say I am teaching 200 students in a quarter (10 weeks) and each student asks me a question by email *once* per quarter. Then on average I would receive 20 emails per week. Because answering questions by email oftentimes requires multiple exchanges, the number of emails I would have to write (and the amount of time I would have to spend doing so) becomes substantial. Personally, I feel bad when I fail to answer a personal email, so even if I choose not to reply to some emails, I feel significant stress for dealing with them.
 
 So please help make my life easier by following some simple tips.
-1. I would like to maintain a professional student-teacher relationship. Undergraduate students should address me "Prof. Toda", not "Hey Prof." or "Hi Alexis", which are inappropriate. I will not answer to such emails. (On the other hand, "Hi Alexis" is acceptable and even encouraged for PhD students because I view PhD students as colleagues.)
+1. I would like to maintain a professional student-teacher relationship. Undergraduate students should address me "Prof. Toda", not "Hey Prof." or "Hi Alexis", which are not very respectable. I will not answer to such emails. (On the other hand, "Hi Alexis" is acceptable and even encouraged for PhD students because I view PhD students as colleagues.)
 2. Please write a concise, imformative title.
 3. Please write the body concisely.
 4. If you have a question about a course, you should mention which course you are taking because I might be teaching multiple courses during a quarter.
