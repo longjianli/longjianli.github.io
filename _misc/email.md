@@ -9,17 +9,23 @@ We are all busy. As for me, I teach multiple classes, I do research, I take care
 
 So please help make my life easier by following some simple tips.
 1. I prefer to be called "Prof. Toda" by undergraduate students. "Hey Prof.", "Hi Alexis", etc. are not acceptable. I will not answer to such emails. (On the other hand, "Hi Alexis" is acceptable and even encouraged for PhD students.)
-1. If you have a question about a course, you should mention which course you are taking because I might be teaching multiple courses during a quarter.
-1. I cannot answer to questions about the grade until after the final exam because I do not know what your grade will be until after the final exam.
-1. Many questions can be resolved by simple Google searches. Think twice before asking a question.
-1. Important information is often included in the syllabus. Do not send me emails before thoroughly reading the syllabus.
-1. For questions related to course materials, please ask questions in person during classes or office hours.
+2. Please have a concise, imformative title.
+3. Please write concisely.
+4. If you have a question about a course, you should mention which course you are taking because I might be teaching multiple courses during a quarter.
+5. I cannot answer to questions about the grade until after the final exam because I do not know what your grade will be until after the final exam.
+6. Many questions can be resolved by simple Google searches. Think twice before asking a question.
+7. Important information is often included in the syllabus. Do not send me emails before thoroughly reading the syllabus.
+8. For questions related to course materials, please ask questions in person during classes or office hours.
+9. Please do not expect a response from me unless your inquiry is "legitimate" (see examples below).
 
-According to my experience, the majority emails sent from undergraduate students are unnecessary. Examples are
+According to my experience, the vast majority of emails sent from undergraduate students are unnecessary. Examples are
 - "When is the exam?" (Please read the syllabus.)
 - "Will the exam score be curved?" (Please read the syllabus.)
-- "I don't understand the derivation of such-and-such" (I am happy to explain in person.)
+- "I don't understand the derivation of such-and-such. Please explain." (I am happy to explain in person during class or office hours.)
 - "Do you think such-and-such is a good investment?" (I have no idea and that's not my problem.)
+- "Why did I receive B, not A?" (I assign letter grades mechanically based on ranking within class, so it just means you didn't do as well as A students.)
+- "Please extend the deadline of such-and-such." (It's your choice to take the class, and if you take it please follow the rules.)
+- "I have a schedule conflict with the exam, can I take a make-up?" (Please read the syllabus. There are no make-up exams. Exam exemptions are allowed only for university-approved reasons, which requires documentation.)
 
 Legitimate emails include, for example,
 - "I would like to apply for a grad school and can you write me a letter of recommendation?" (I am happy to deal with that, but please read my [letter of recommendation policy](https://alexisakira.github.io/misc/letter-of-recommendation) first.)
