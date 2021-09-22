@@ -24,6 +24,7 @@ According to my experience, the vast majority of emails sent from undergraduate 
 - "What materials would be covered in the exam?" (Please pay attention to course announcements.)
 - "I don't understand the derivation of such-and-such. Please explain." (I am happy to explain in person during class or office hours.)
 - "Do you think such-and-such is a good investment?" (I have no idea and that's not my problem.)
+- "I missed the class today. Could you let me know what you covered?" (I expect students to come to class. Maybe you can ask a classmate instead.)
 - "Why did I receive B, not A?" (I assign letter grades mechanically based on ranking within class, so it just means you didn't do as well as A students.)
 - "Please extend the deadline of such-and-such." (It's your choice to take the class, and if you take it please follow the rules.)
 - "I have a schedule conflict with the exam, can I take a make-up?" (Please read the syllabus. There are no make-up exams. Exam exemptions are allowed only for university-approved reasons, which requires documentation.)
