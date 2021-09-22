@@ -27,7 +27,7 @@ According to my experience, the vast majority of emails sent from undergraduate 
 - "Why did I receive B, not A?" (I assign letter grades mechanically based on ranking within class, so it just means you didn't do as well as A students.)
 - "Please extend the deadline of such-and-such." (It's your choice to take the class, and if you take it please follow the rules.)
 - "I have a schedule conflict with the exam, can I take a make-up?" (Please read the syllabus. There are no make-up exams. Exam exemptions are allowed only for university-approved reasons, which requires documentation.)
-- "I got kicked out from my apartment because I couldn't affor the rent, I didn't have time to study, and I did poorly in the exam. Can you change my grade from D to C?" (I feel sorry about your personal situation but that is not my problem. I assign grades mechanically and fairly and there is nothing I can do.)
+- "I got kicked out from my apartment because I couldn't afford the rent, I didn't have time to study, and I did poorly in the exam. Can you change my grade from D to C?" (I feel sorry about your personal situation but that is not my problem. I assign grades mechanically and fairly and there is nothing I can do.)
 
 Legitimate emails include, for example,
 - "I would like to apply for a grad school. Can you write me a letter of recommendation?" (I am happy to discuss that, but please read my [letter of recommendation policy](https://alexisakira.github.io/misc/letter-of-recommendation) first.)
