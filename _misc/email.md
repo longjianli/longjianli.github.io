@@ -31,5 +31,6 @@ According to my experience, the vast majority of emails sent from undergraduate 
 - "I got kicked out from my apartment because I couldn't afford the rent, I didn't have time to study, and I did poorly in the exam. Can you change my grade from D to C?" (I feel sorry about your personal situation but that is not my problem. I assign grades mechanically and fairly and there is nothing I can do.)
 
 Appropriate emails (which tend to be a small fraction) include, for example,
-- "I would like to apply for a grad school. Can you write me a letter of recommendation?" (I am happy to discuss that, but please read my [letter of recommendation policy](https://alexisakira.github.io/misc/letter-of-recommendation) first.)
+- "I believe there is a typo/error/bug in the slide/lecture note/code." (Thank you, let me take a look.)
+- "I would like to apply to a grad school. Can you write me a letter of recommendation?" (I am happy to discuss that, but please read my [letter of recommendation policy](https://alexisakira.github.io/misc/letter-of-recommendation) first.)
 - "I missed (am going to miss) an exam for such-and-such (university-approved) reason. What should I do?" (Please submit evidence that supports your claim if you missed a midterm. If you miss a final, you fail automatically the course [per university policy](https://senate.ucsd.edu/operating-procedures/educational-policies/courses/epc-policies-on-courses/policy-exams-including-midterms-final-exams-and-religious-accommodations-for-exams/).)
