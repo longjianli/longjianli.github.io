@@ -1,17 +1,17 @@
 ---
-title: "Mathematical Economics/General Equilibrium (Econ 113/200B)"
+title: "Mathematical Economics/General Equilibrium (Econ 113/200A)"
 collection: teaching
 type: "Undergraduate/Graduate"
 permalink: /teaching/mathematical-economics
 venue: "UCSD"
-date: 2020-01-01
+date: 2021-09-01
 ---
 
-This course covers the classical [Arrow](https://en.wikipedia.org/wiki/Kenneth_Arrow)-[Debreu](https://en.wikipedia.org/wiki/G%C3%A9rard_Debreu) theory of [general equilibrium](https://en.wikipedia.org/wiki/General_equilibrium_theory). The undergraduate course (Econ 113) meets 3 hours per week for 10 weeks and covers about 2/3 of the lecure note. The graduate course (Econ 200B) meets 3 hours per week for 5 weeks and covers the entire lecture note.
+This course covers the classical [Arrow](https://en.wikipedia.org/wiki/Kenneth_Arrow)-[Debreu](https://en.wikipedia.org/wiki/G%C3%A9rard_Debreu) theory of [general equilibrium](https://en.wikipedia.org/wiki/General_equilibrium_theory). The undergraduate course (Econ 113) meets 3 hours per week for 10 weeks and covers about 2/3 of the lecure note. The graduate course (Econ 200A) meets 3 hours per week for 5 weeks and covers the entire lecture note plus additional topics on mathematical economics.
 
 ## Syllabus
 - [Econ 113](/files/113_syllabus.pdf)
-- [Econ 200B](/files/200B_syllabus.pdf)
+- [Econ 200A](https://www.dropbox.com/s/wg4mrjysdndpbrm/2021F_200A_syllabus.pdf)
 
 ## [Lecture note](https://www.dropbox.com/s/49rvpch73rmkw0c/113_Lnote.pdf)
 
