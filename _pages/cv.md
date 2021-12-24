@@ -41,6 +41,7 @@ redirect_from:
 - B.A., [Faculty of Medicine, University of Tokyo](http://www.m.u-tokyo.ac.jp/english/), 2004
 
 ## Qualifications
+- Rover Umpire, United States Tennis Association, 2021
 - Board-certified Anesthesiologist, Japan, 2008
 - Medical Doctor, Japan, 2004
 
