@@ -98,7 +98,7 @@ I am an "applied general equilibrium theorist", meaning that I am a theorist int
 1. "Collateralized Loans, Pooling, and Maximum Leverage", revise and resubmit at **Theoretical Economics** [PDF](http://ssrn.com/abstract=2336582)
 1. "Zipf's Law: A Microfoundation" [PDF](http://ssrn.com/abstract=2808237)
 1. "Bad News and Robust Comparative Statics for the Elasticity of Intertemporal Substitution", with *Lawrence Schmidt*, revise and resubmit at **Theoretical Economics** [PDF](http://ssrn.com/abstract=2544688)
-1. "Determination of Pareto Exponents in Economic Models Driven by Markov Multiplicative Processes", with *Brendan K. Beare*, revise and resubmit at **Econometrica** [PDF](https://arxiv.org/abs/1712.01431) [Slides](https://www.dropbox.com/s/8q03zjtn1jak2ju/randomgrowth_slides8_short.pdf)
+1. "Determination of Pareto Exponents in Economic Models Driven by Markov Multiplicative Processes", with *Brendan K. Beare*, conditionally accepted at **Econometrica** [PDF](https://arxiv.org/abs/1712.01431) [Slides](https://www.dropbox.com/s/8q03zjtn1jak2ju/randomgrowth_slides8_short.pdf)
 1. "Unbounded Dynamic Programming via the Q-Transform", with *Qingyin Ma and John Stachurski* [PDF](https://arxiv.org/abs/2012.00219)
 1. "Optimal Epidemic Control in Equilibrium with Imperfect Testing and Enforcement", with *Thomas Phelan* [PDF](https://arxiv.org/abs/2104.04455)
 1. "Tax Progressivity and Wealth Inequality: Evidence from Forbes 400", with *Ji Hyung Lee, Yuya Sasaki, and Yulong Wang* [PDF](https://arxiv.org/abs/2105.10007)
