@@ -12,7 +12,7 @@ I am an "applied general equilibrium theorist", meaning that I am a theorist int
 ## Refereed research articles
 
 1. "[Determination of Pareto Exponents in Economic Models Driven by Markov Multiplicative Processes](https://arxiv.org/abs/1712.01431)", with *Brendan K. Beare*, accepted at **Econometrica** [WP version](https://arxiv.org/abs/1712.01431) [Slides](https://www.dropbox.com/s/8q03zjtn1jak2ju/randomgrowth_slides8_short.pdf)  
-(Power law) Provide simple formula for Pareto exponents of stationary Markov multiplicative processes. One of my best papers.
+(Power law, Mathematics) Provide simple formula for Pareto exponents of stationary Markov multiplicative processes. One of my best papers.
 1. "[Pareto Extrapolation: An Analytical Framework for Studying Tail Inequality](https://ssrn.com/abstract=3260899)", with *Émilien Gouin-Bonenfant*, accepted at **Quantitative Economics** [WP version](https://ssrn.com/abstract=3260899) [Code](https://github.com/alexisakira/Pareto-extrapolation)  
 (Power law, Numerical method, Macro) Analytical framework designed to solve and analyze heterogeneous-agent models that endogenously generate fat-tailed wealth distributions. One of my best papers.
 1. "[Tail Behavior of Stopped Lévy Processes with Markov Modulation](https://doi.org/10.1017/S0266466621000268)", with *Brendan K. Beare and Won-Ki Seo*, **Econometric Theory** [WP version](https://arxiv.org/abs/2009.08010)  
