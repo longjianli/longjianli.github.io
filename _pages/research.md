@@ -99,8 +99,8 @@ I am an "applied general equilibrium theorist", meaning that I am a theorist int
 ## Working papers
 1. "Collateralized Loans, Pooling, and Maximum Leverage", revise and resubmit at **Theoretical Economics** [PDF](http://ssrn.com/abstract=2336582)
 1. "Zipf's Law: A Microfoundation" [PDF](http://ssrn.com/abstract=2808237)
-1. "Bad News and Robust Comparative Statics for the Elasticity of Intertemporal Substitution", with *Lawrence Schmidt*, revise and resubmit at **Theoretical Economics** [PDF](http://ssrn.com/abstract=2544688)
 1. "Unbounded Dynamic Programming via the Q-Transform", with *Qingyin Ma and John Stachurski*, conditionally accepted at **Journal of Mathematical Economics** [PDF](https://arxiv.org/abs/2012.00219)
 1. "Optimal Epidemic Control in Equilibrium with Imperfect Testing and Enforcement", with *Thomas Phelan* [PDF](https://arxiv.org/abs/2104.04455)
 1. "Tax Progressivity and Wealth Inequality: Evidence from Forbes 400", with *Ji Hyung Lee, Yuya Sasaki, and Yulong Wang* [PDF](https://arxiv.org/abs/2105.10007)
+1. "Robust Comparative Statics for the Elasticity of Intertemporal Substitution", with *Joel P. Flynn and Lawrence D. W. Schmidt*, revise and resubmit at **Theoretical Economics** [PDF](https://arxiv.org/abs/2201.10673)
 
