@@ -15,6 +15,8 @@ I am an "applied general equilibrium theorist", meaning that I am a theorist int
 (Power law, Mathematics) Provide simple formula for Pareto exponents of stationary Markov multiplicative processes. One of my best papers.
 1. "[Pareto Extrapolation: An Analytical Framework for Studying Tail Inequality](https://qeconomics.org/ojs/forth/1817/1817-2.pdf)", with *Émilien Gouin-Bonenfant*, accepted at **Quantitative Economics** [WP version](https://ssrn.com/abstract=3260899) [Code](https://github.com/alexisakira/Pareto-extrapolation)  
 (Power law, Numerical method, Macro) Analytical framework designed to solve and analyze heterogeneous-agent models that endogenously generate fat-tailed wealth distributions. One of my best papers.
+1. "Unbounded Dynamic Programming via the Q-Transform", with *Qingyin Ma and John Stachurski*, accepted at **Journal of Mathematical Economics** [PDF](https://arxiv.org/abs/2012.00219)  
+(Theory) Simple operation that often transforms an unbounded dynamic programming problem into a bounded one.
 1. "[Tail Behavior of Stopped Lévy Processes with Markov Modulation](https://doi.org/10.1017/S0266466621000268)", with *Brendan K. Beare and Won-Ki Seo*, **Econometric Theory** [WP version](https://arxiv.org/abs/2009.08010)  
 (Power law, Theory) Characterize tail behavior of Markov-modulated Lévy processes that are stopped at state-dependent Poisson rates; application to wealth distribution.
 1. "[Capital and Labor Income Pareto Exponents across Time and Space](https://doi.org/10.1111/roiw.12556)", with *Tjeerd de Vries*, **Review of Income and Wealth** [LIS Working Paper 794](http://www.lisdatacenter.org/wps/liswps/794.pdf) [arXiv](https://arxiv.org/abs/2006.03441) [Code](https://github.com/alexisakira/Pareto_time_space)  
@@ -99,7 +101,6 @@ I am an "applied general equilibrium theorist", meaning that I am a theorist int
 ## Working papers
 1. "Collateralized Loans, Pooling, and Maximum Leverage", revise and resubmit at **Theoretical Economics** [PDF](http://ssrn.com/abstract=2336582)
 1. "Zipf's Law: A Microfoundation" [PDF](http://ssrn.com/abstract=2808237)
-1. "Unbounded Dynamic Programming via the Q-Transform", with *Qingyin Ma and John Stachurski*, conditionally accepted at **Journal of Mathematical Economics** [PDF](https://arxiv.org/abs/2012.00219)
 1. "Optimal Epidemic Control in Equilibrium with Imperfect Testing and Enforcement", with *Thomas Phelan* [PDF](https://arxiv.org/abs/2104.04455)
 1. "Tax Progressivity and Wealth Inequality: Evidence from Forbes 400", with *Ji Hyung Lee, Yuya Sasaki, and Yulong Wang* [PDF](https://arxiv.org/abs/2105.10007)
 1. "Robust Comparative Statics for the Elasticity of Intertemporal Substitution", with *Joel P. Flynn and Lawrence D. W. Schmidt*, revise and resubmit at **Theoretical Economics** [PDF](https://arxiv.org/abs/2201.10673)
