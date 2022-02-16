@@ -104,6 +104,6 @@ Below is the complete publication list. My best papers are indicated with 👍.
 1. "Collateralized Loans, Pooling, and Maximum Leverage", revise and resubmit at **Theoretical Economics** [PDF](http://ssrn.com/abstract=2336582)
 1. "Zipf's Law: A Microfoundation" [PDF](http://ssrn.com/abstract=2808237)
 1. "Optimal Epidemic Control in Equilibrium with Imperfect Testing and Enforcement", with *Thomas Phelan* [PDF](https://arxiv.org/abs/2104.04455)
-1. "Tax Progressivity and Wealth Inequality: Evidence from Forbes 400", with *Ji Hyung Lee, Yuya Sasaki, and Yulong Wang* [PDF](https://arxiv.org/abs/2105.10007)
+1. "Censored Tail Regression: New Evidence on Tax and Wealth Inequality from Forbes 400", with *Ji Hyung Lee, Yuya Sasaki, and Yulong Wang* [PDF](https://arxiv.org/abs/2105.10007)
 1. "Robust Comparative Statics for the Elasticity of Intertemporal Substitution", with *Joel P. Flynn and Lawrence D. W. Schmidt*, revise and resubmit at **Theoretical Economics** [PDF](https://arxiv.org/abs/2201.10673)
 
