@@ -17,7 +17,7 @@ Below is the complete publication list. My best papers are indicated with 👍.
 (Power law, Mathematics) Provide simple formula and mathematical foundation for Pareto exponents of stationary Markov multiplicative processes.
 1. 👍"[Pareto Extrapolation: An Analytical Framework for Studying Tail Inequality](https://qeconomics.org/ojs/forth/1817/1817-2.pdf)", with *Émilien Gouin-Bonenfant*, accepted at **Quantitative Economics** [WP version](https://ssrn.com/abstract=3260899) [Code](https://github.com/alexisakira/Pareto-extrapolation)  
 (Power law, Numerical method, Macro) Analytical framework designed to solve and analyze heterogeneous-agent models that endogenously generate fat-tailed wealth distributions.
-1. "[Unbounded Dynamic Programming via the Q-Transform](https://arxiv.org/abs/2012.00219)", with *Qingyin Ma and John Stachurski*, accepted at **Journal of Mathematical Economics** [WP version](https://arxiv.org/abs/2012.00219)  
+1. "[Unbounded Dynamic Programming via the Q-Transform](https://doi.org/10.1016/j.jmateco.2022.102652)", with *Qingyin Ma and John Stachurski*, **Journal of Mathematical Economics** [WP version](https://arxiv.org/abs/2012.00219)  
 (Theory) Simple operation that often transforms an unbounded dynamic programming problem into a bounded one.
 1. "[Tail Behavior of Stopped Lévy Processes with Markov Modulation](https://doi.org/10.1017/S0266466621000268)", with *Brendan K. Beare and Won-Ki Seo*, **Econometric Theory** [WP version](https://arxiv.org/abs/2009.08010)  
 (Power law, Theory) Characterize tail behavior of Markov-modulated Lévy processes that are stopped at state-dependent Poisson rates; application to wealth distribution.
