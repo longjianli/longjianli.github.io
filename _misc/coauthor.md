@@ -10,7 +10,7 @@ Below is a list of my coauthors (in alphabetical order by last name). Let me kno
  1. [Sherzod Akhundjanov](https://sites.google.com/site/sherzodba/)
  1. Johji Arakawa
  1. [Brendan Beare](https://www.brendanbeare.com/)
- 1. Tjeerd de Vries
+ 1. [Tjeerd de Vries](https://tdevries1.github.io/)
  1. [Leland Farmer](https://www.lelandfarmer.com/)
  1. [Joel P. Flynn](https://economics.mit.edu/grad/jpflynn)
  1. [Émilien Gouin-Bonenfant](https://sites.google.com/view/emilien)
