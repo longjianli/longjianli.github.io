@@ -12,6 +12,7 @@ Below is a list of my coauthors (in alphabetical order by last name). Let me kno
  1. [Brendan Beare](https://www.brendanbeare.com/)
  1. Tjeerd de Vries
  1. [Leland Farmer](https://www.lelandfarmer.com/)
+ 1. [Joel P. Flynn](https://economics.mit.edu/grad/jpflynn)
  1. [Émilien Gouin-Bonenfant](https://sites.google.com/view/emilien)
  1. [Gregory Gutin](https://pure.royalholloway.ac.uk/portal/en/persons/gregory-gutin(6b1b6d2e-2ebd-4bc0-8d8b-f258381c1f44).html)
  1. [Tomohiro Hirano](https://sites.google.com/site/tomohih/)
