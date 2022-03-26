@@ -15,7 +15,7 @@ Below is the complete publication list. My best papers are indicated with 👍.
 
 1. 👍"[Determination of Pareto Exponents in Economic Models Driven by Markov Multiplicative Processes](https://www.econometricsociety.org/system/files/17984-4.pdf)", with *Brendan K. Beare*, accepted at **Econometrica** [WP version](https://arxiv.org/abs/1712.01431) [Slides](https://www.dropbox.com/s/8q03zjtn1jak2ju/randomgrowth_slides8_short.pdf)  
 (Power law, Mathematics) Provide simple formula and mathematical foundation for Pareto exponents of stationary Markov multiplicative processes.
-1. "[Robust Comparative Statics for the Elasticity of Intertemporal Substitution](https://arxiv.org/abs/2201.10673)", with *Joel P. Flynn and Lawrence D. W. Schmidt*, accepted at **Theoretical Economics** [WP version](https://arxiv.org/abs/2201.10673)  
+1. "[Robust Comparative Statics for the Elasticity of Intertemporal Substitution](https://econtheory.org/ojs/index.php/te/article/viewForthcomingFile/4117/33475/1)", with *Joel P. Flynn and Lawrence D. W. Schmidt*, accepted at **Theoretical Economics** [WP version](https://arxiv.org/abs/2201.10673)  
 (Theory) Robust comparative statics for the elasticity of intertemporal substitution; sign- and point-identification of EIS minus 1.
 1. 👍"[Pareto Extrapolation: An Analytical Framework for Studying Tail Inequality](https://qeconomics.org/ojs/forth/1817/1817-2.pdf)", with *Émilien Gouin-Bonenfant*, accepted at **Quantitative Economics** [WP version](https://ssrn.com/abstract=3260899) [Code](https://github.com/alexisakira/Pareto-extrapolation)  
 (Power law, Numerical method, Macro) Analytical framework designed to solve and analyze heterogeneous-agent models that endogenously generate fat-tailed wealth distributions.
