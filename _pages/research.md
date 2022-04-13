@@ -107,4 +107,4 @@ Below is the complete publication list. My best papers are indicated with 👍.
 1. "Zipf's Law: A Microfoundation" [PDF](http://ssrn.com/abstract=2808237)
 1. "Optimal Epidemic Control in Equilibrium with Imperfect Testing and Enforcement", with *Thomas Phelan* [PDF](https://arxiv.org/abs/2104.04455)
 1. "Censored Tail Regression: New Evidence on Tax and Wealth Inequality from Forbes 400", with *Ji Hyung Lee, Yuya Sasaki, and Yulong Wang* [PDF](https://arxiv.org/abs/2105.10007)
-
+1. "Maximum Entropy Density Estimation from Tabulated Summary Data", with *Ji Hyung Lee, Yuya Sasaki, and Yulong Wang* [PDF](https://arxiv.org/abs/2204.05480)
