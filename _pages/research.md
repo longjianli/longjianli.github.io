@@ -109,3 +109,4 @@ Below is the complete publication list. My best papers are indicated with 👍.
 1. "Censored Tail Regression: New Evidence on Tax and Wealth Inequality from Forbes 400", with *Ji Hyung Lee, Yuya Sasaki, and Yulong Wang* [PDF](https://arxiv.org/abs/2105.10007)
 1. "Maximum Entropy Density Estimation from Tabulated Summary Data", with *Ji Hyung Lee, Yuya Sasaki, and Yulong Wang* [PDF](https://arxiv.org/abs/2204.05480)
 1. "Capital and Labor Income Pareto Exponents in the United States, 1916-2019", with *Ji Hyung Lee, Yuya Sasaki, and Yulong Wang* [PDF](https://arxiv.org/abs/2206.04257) [Slides](https://www.dropbox.com/s/sml2ckkeoisxjao/slides_2022_06_02.pdf)
+1. "Incentivizing Hidden Types in Secretary Problem", with *Longjian Li* [PDF](https://arxiv.org/abs/2208.05897)
