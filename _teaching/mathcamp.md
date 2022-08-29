@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate"
 permalink: /teaching/mathcamp
 venue: "UCSD"
-date: 2021-08-01
+date: 2022-08-01
 ---
 
 This course covers mathematical topics that are essential for economics, very quickly but rigorously.
