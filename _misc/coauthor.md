@@ -28,7 +28,7 @@ Below is a list of my coauthors (in alphabetical order by last name). Let me kno
  1. [Won-Ki Seo](https://sites.google.com/site/wkseo86/)
  1. [John Stachurski](https://johnstachurski.net/)
  1. Toru Sugihara
- 1. [Ken'ichiro Tanaka](https://sites.google.com/site/ketanakahp/)
+ 1. [Ken'ichiro Tanaka](https://kentanakadpp.github.io/)
  1. Junko Toda
  1. [Kieran James Walsh](https://sites.google.com/site/kieranjameswalsh/)
  1. Hideo Yasunaga
