@@ -12,6 +12,7 @@ I am an associate professor at the [Department of Economics, University of Calif
 
 ## My research
 I am a mathematical economist with strong interests in applications. The topics I have worked on include
+
 - [the impossibility of canonical macroeconomic models to explain wealth inequality](https://doi.org/10.1016/j.jet.2019.04.001),
 - [a simple explanation for the saving behavior of the rich](https://doi.org/10.1016/j.jet.2021.105193),
 - [a computational algorithm for solving macroeconomic models with realistic wealth distributions](https://qeconomics.org/ojs/forth/1817/1817-2.pdf),
@@ -21,6 +22,7 @@ I am a mathematical economist with strong interests in applications. The topics 
 - [implication of financial development to international capital flows and welfare](https://doi.org/10.1016/j.jfineco.2018.08.011),
 - [efficient discretization of non-linear, non-Gaussian Markov processes](https://doi.org/10.3982/QE737), and
 - [optimal epidemic control when testing and government enforcement are imperfect](https://arxiv.org/abs/2104.04455),
+
 among others.
 
 I have published papers in journals such as [Econometrica](https://onlinelibrary.wiley.com/journal/14680262), [Journal of Political Economy](https://www.journals.uchicago.edu/toc/jpe/current), [Theoretical Economics](https://econtheory.org/), [Quantitative Economics](http://qeconomics.org/ojs/index.php/qe), [Journal of Economic Theory](https://www.journals.elsevier.com/journal-of-economic-theory), [Review of Financial Studies](https://academic.oup.com/rfs), [Journal of Financial Economics](https://www.journals.elsevier.com/journal-of-financial-economics), [Journal of Monetary Economics](https://www.journals.elsevier.com/journal-of-monetary-economics), [American Mathematical Monthly](https://www.maa.org/press/periodicals/american-mathematical-monthly), [SIAM Journal on Numerical Analysis](https://www.siam.org/publications/journals/siam-journal-on-numerical-analysis-sinum), [Operations Research Letters](https://www.journals.elsevier.com/operations-research-letters), and [Physical Review E](https://journals.aps.org/pre/), among others. I am also a medical doctor (anesthesiologist) and an associate editor at [Economic Theory](https://www.springer.com/journal/199) and [Journal of Mathematical Economics](https://www.journals.elsevier.com/journal-of-mathematical-economics). Please see my [research page](/research/) for more details.
