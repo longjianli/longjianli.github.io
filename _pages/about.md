@@ -22,7 +22,7 @@ I am a mathematical economist with strong interests in applications. The topics 
 - [determination of academic salaries](https://econjwatch.org/articles/publications-citations-position-and-compensation-of-economics-professors),
 - [implication of financial development to international capital flows and welfare](https://doi.org/10.1016/j.jfineco.2018.08.011),
 - [efficient discretization of non-linear, non-Gaussian Markov processes](https://doi.org/10.3982/QE737),
-- [optimal epidemic control when testing and government enforcement are imperfect](https://arxiv.org/abs/2104.04455),
+- [optimal epidemic control when testing and government enforcement are imperfect](https://doi.org/10.1016/j.jet.2022.105570),
 
 among others.
 
