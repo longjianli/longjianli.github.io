@@ -124,3 +124,4 @@ Below is the complete publication list. My best papers are indicated with 👍.
 1. "Tuning Parameter-Free Nonparametric Density Estimation from Tabulated Summary Data", with *Ji Hyung Lee, Yuya Sasaki, and Yulong Wang* [PDF](https://arxiv.org/abs/2204.05480)
 1. "Capital and Labor Income Pareto Exponents in the United States, 1916-2019", with *Ji Hyung Lee, Yuya Sasaki, and Yulong Wang* [PDF](https://arxiv.org/abs/2206.04257) [Slides](https://www.dropbox.com/s/sml2ckkeoisxjao/slides_2022_06_02.pdf)
 1. "Incentivizing Hidden Types in Secretary Problem", with *Longjian Li* [PDF](https://arxiv.org/abs/2208.05897) [Slides](https://www.dropbox.com/s/x2p02pitlrbh6yn/slides_2022_10_06.pdf)
+1. "Necessity of Rational Asset Price Bubbles in Two-Sector Growth Economies", with *Tomohiro Hirano and Ryo Jinnai* [PDF](https://arxiv.org/abs/2211.13100)
