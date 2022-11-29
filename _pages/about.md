@@ -14,7 +14,7 @@ I am an associate professor at the [Department of Economics, University of Calif
 I am a mathematical economist with strong interests in applications. The topics I have worked on include
 
 - [the impossibility of canonical macroeconomic models to explain wealth inequality](https://doi.org/10.1016/j.jet.2019.04.001),
-- [a simple explanation for the saving behavior of the rich](https://doi.org/10.1016/j.jet.2021.105193),
+- [a simple explanation for the saving behavior of the rich that does not rely on ad hoc utility functions](https://doi.org/10.1016/j.jet.2021.105193),
 - [a computational algorithm for solving macroeconomic models with realistic wealth distributions](https://qeconomics.org/ojs/forth/1817/1817-2.pdf),
 - [simple formula and mathematical foundation for Pareto exponents that arise in random multiplicative processes in Markovian environments](https://dx.doi.org/10.3982/ECTA17984),
 - [verification of the random multiplicative process to explain the spread of COVID-19](https://doi.org/10.1016/j.physd.2020.132649),
