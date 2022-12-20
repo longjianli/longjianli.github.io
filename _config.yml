@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alexis Akira Toda"
+title                    : "Longjian Li"
 title_separator          : "-"
-name                     : &name "Alexis Akira Toda"
+name                     : &name "Longjian Li"
 description              : &description "personal description"
-url                      : https://alexisakira.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://longjianli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "alexisakira/alexisakira.github.io"
+repository               : "longjianli/longjianli.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alexis Akira Toda"
-  avatar           : "Alexis_website_photo2_resize.jpg"
-  bio              : "Associate Professor (Economics)"
-  location         : "San Diego, CA"
-  employer         : "University of California San Diego"
+  name             : "Longjian Li"
+  avatar           : 
+  bio              : "Undergraduate Student"
+  location         : "Beijing, China"
+  employer         : "Peking University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=29tiOI0AAAAJ"
-  email            :
-  researchgate     : "https://www.researchgate.net/profile/Alexis_Toda"
+  googlescholar    : 
+  email            : "ljliecon@gmail.com"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,17 +96,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "alexisakira"
+  github           : "longjianli"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0001-5965-7806"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : # 
   steam            :
   tumblr           :
   twitter          : # "replacethistwitterhandle"
