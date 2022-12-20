@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student at the [National School of Development, Peking University](https://en.nsd.pku.edu.cn/). I was born in [Suizhou](https://en.wikipedia.org/wiki/Suizhou) (famous for bianzhong) and speak Chinese and English.
+I am an undergraduate student at the [National School of Development, Peking University](https://en.nsd.pku.edu.cn/). I was born in [Suizhou](https://en.wikipedia.org/wiki/Suizhou) and speak Chinese and English.
 
 ## My research
 I am a mathematical economist with strong interests in applications. The topics I have worked on include
