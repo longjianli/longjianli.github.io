@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an associate professor at the [Department of Economics, University of California San Diego](http://economics.ucsd.edu/). I was born in [Montréal](https://en.wikipedia.org/wiki/Montreal) (paternal side is Japanese and maternal side is French Canadian) and speak English, French, and Japanese.
+I am an undergraduate student at the [National School of Development, Peking University](https://en.nsd.pku.edu.cn/). I was born in [Suizhou](https://en.wikipedia.org/wiki/Suizhou) (famous for bianzhong) and speak Chinese and English.
 
 ## My research
 I am a mathematical economist with strong interests in applications. The topics I have worked on include
