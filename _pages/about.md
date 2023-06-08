@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student at the [National School of Development, Peking University](https://en.nsd.pku.edu.cn/). I was born in [Suizhou](https://en.wikipedia.org/wiki/Suizhou) and speak Chinese and English.
+I am an incoming PhD student at the [New York University](https://as.nyu.edu/departments/econ.html). I obtained my B.A. in Economics from [Peking University](https://english.pku.edu.cn/). I was born in [Suizhou](https://en.wikipedia.org/wiki/Suizhou) and speak Chinese and English.
 
 ## My research
 I work on microeconomic theory, with a particular interest in robust mechanism design, information disclosure, and decision theory.
